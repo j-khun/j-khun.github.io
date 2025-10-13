@@ -11,54 +11,23 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* 2019.03 - 2023.08<br>
+> _Ph.D in Atmospheric Sciences, Kongju National University, S. Korea_<br>
+* 2017.03 - 2019.02<br>
+> _M.S. in Atmospheric Sciences, Kongju National University, S. Korea_<br>
+* 2015.03 - 2017.02<br>
+> _B.S. in Atmospheric Sciences, Kongju National University, S. Korea_<br>
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* **2025.05 - current: _Project Researcher_**<br>
+> * _Research Center for Advanced Science and Technology (RCAST), The University of Tokyo, Japan_<br>
+> * _Supervisor: Prof. Yu Kosaka_<br>
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* **2023.09 - 2025.04: _Postdoctoral Researcher_**<br>
+> * _Earth Environment Research Center (EERC), Kongju National University, S. Korea_<br>
+> * _Supervisor: Prof. Joowan Kim & Prof. Maeng-Ki Kim_<br>
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* **2019.04 - 2023.02: _Research Associate_**<br>
+> * _Division of the Atmospheric Sciences, Korea Polar Research Institute (KOPRI), S. Korea_<br>
+> * _Supervisor: Dr. Seong-Joong Kim_<br>
