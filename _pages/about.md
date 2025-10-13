@@ -12,7 +12,8 @@ redirect_from:
 * Postdoctoral Researcher, Research Center for Advanced Science and Technology (RCAST), The University of Tokyo.<br>
 Currently, working with Prof. Yu Kosaka.<br>
 
-* Contact: jkhun (at) atmos.rcast.u-tokyo.ac.jp ; j.khun1209 (at) gmail.com<br>   
+* Contact: jkhun (at) atmos.rcast.u-tokyo.ac.jp<br>
+j.khun1209 (at) gmail.com<br>   
 * Address:<br>
   Bldg. 3, Room 413, Research Center for Advanced Science and Technology, The University of Tokyo<br>
   4-6-1 Komaba, Meguro-ku, Tokyo 153-8904, Japan<br>
