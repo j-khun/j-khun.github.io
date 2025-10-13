@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: Welcome to visit my pages! :)
-author_profile: true
+title: Welcome to visit my pages!😎
+uthor_profile: true
 redirect_from: 
   - /about/
   - /about.html
