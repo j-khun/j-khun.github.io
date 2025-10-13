@@ -8,10 +8,10 @@ redirect_from:
 ---
 
 {% include base_path %}<br>
-**Full CV:** [Download my full CV (PDF)](/assets/CV_JeongHun_Kim_250729.pdf)
+**Full CV📎:** [Download my full CV (PDF)](/assets/CV_JeongHun_Kim_250729.pdf)
 <br>
 
-## Education
+## Education📚
 
 * **2019.03 - 2023.08**
   * _Ph.D in Atmospheric Sciences, Kongju National University, S. Korea_
@@ -27,7 +27,7 @@ redirect_from:
 * **2011.03 - 2015.02**
   * _Undergraduate student in Earth and Environmental Sciences, Chungbuk National University, S. Korea_
 
-## Work experience
+## Work experiences🧑‍💻
 
 * **2025.05 - current:** Project Researcher
   * _Research Center for Advanced Science and Technology (RCAST), The University of Tokyo, Japan_
@@ -41,7 +41,7 @@ redirect_from:
   * _Division of the Atmospheric Sciences, Korea Polar Research Institute (KOPRI), S. Korea_
   * _Supervisor: Dr. Seong-Joong Kim_
 
-## Awards
+## Awards🏆
 * **Best Presentation Award**, The Korean Society of Climate Change Research, 2024
 * **Achievement Award**, Kongju National University, 2023
 * **Commendation / Contribution Award**, Korea Polar Research Institute (KOPRI), 2022
