@@ -1,12 +1,11 @@
 ---
 permalink: /
+title: Welcome to visit my pages! :)
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-# Welcome to visit my pages!!
 
 ## Jeong-Hun Kim (김 정훈, 金 正勳)
 
