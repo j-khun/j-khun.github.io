@@ -27,8 +27,6 @@ author_profile: true
 > - Lee, Y. H., Yeh, S. W.\*, **Kim, J.H.**, & Kim, M. K. (2024). The role of the North Atlantic Ocean on the increase in East Asia's spring extreme hot day occurrences across the early 2000s. *Scientific Reports*, 14, 9872. [Link](https://doi.org/10.1038/s41598-024-59812-y)
 > - **Kim, J. H.**, Kim, M. K.\*, Kim, S. J., Kim, J. H., Yeh, S. W., Lee, S. H., & Lee, Y. (2024). Arctic/North Atlantic Atmospheric Variability causes Severe PM10 events in South Korea. *Science of the Total Environment*, 169714. [Link](https://doi.org/10.1016/j.scitotenv.2023.169714)  
 
----
-
 ### 2022
 > - **Kim, J. H.**, Kim, S. J.\*, Kim, J. H., Hayashi, M., & Kim, M. K.\* (2022). East Asian heat waves driven by Arctic-Siberian warming. *Scientific Reports*, 12, 18025. [Link](https://doi.org/10.1038/s41598-022-22628-9)  
 
