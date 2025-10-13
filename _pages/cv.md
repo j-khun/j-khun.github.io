@@ -7,7 +7,9 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+{% include base_path %}<br>
+**Full CV:** [Download my full CV (PDF)](/assets/CV_JeongHun_Kim_250729.pdf)
+<br>
 
 ## Education
 
@@ -39,4 +41,8 @@ redirect_from:
   * _Division of the Atmospheric Sciences, Korea Polar Research Institute (KOPRI), S. Korea_
   * _Supervisor: Dr. Seong-Joong Kim_
 
-**Full CV:** [Download my full CV (PDF)](/assets/CV_JeongHun_Kim_250729.pdf)
+## Awards
+* **Best Presentation Award**, The Korean Society of Climate Change Research, 2024
+* **Achievement Award**, Kongju National University, 2023
+* **Commendation / Contribution Award**, Korea Polar Research Institute (KOPRI), 2022
+
