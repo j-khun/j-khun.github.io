@@ -29,7 +29,6 @@ Currently, working with Prof. Yu Kosaka.<br>
 
 **1. Heatwave Mechanism by Large-scale Teleconnection**<br>
 > Impact of large-scale teleconnection patterns originating in the Arctic/high latitudes on mid-latitude heat waves.<br>
-> ![ASP teleconnection](images/Schematic_diagram_ASPt.png)
 
 **2. Moisture transport to the Arctic**<br>
 > Research on poleward water vapor transport and its effects on Arctic warming.
