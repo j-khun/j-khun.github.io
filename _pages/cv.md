@@ -39,4 +39,4 @@ redirect_from:
   * _Division of the Atmospheric Sciences, Korea Polar Research Institute (KOPRI), S. Korea_
   * _Supervisor: Dr. Seong-Joong Kim_
 
-**Full CV:** [Download my full CV (PDF)](/assets/files/CV_JeongHun_Kim_250729.pdf)
+**Full CV:** [Download my full CV (PDF)](/assets/CV_JeongHun_Kim_250729.pdf)
