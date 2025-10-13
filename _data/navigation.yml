@@ -17,11 +17,11 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Useful"
-    url: /useful/
-
   - title: "Activity"
     url: /activity/
+
+  - title: "Useful"
+    url: /useful/
 
   # - title: "Talks"
   #   url: /talks/    
