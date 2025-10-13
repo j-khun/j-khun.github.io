@@ -27,14 +27,16 @@ redirect_from:
 
 ## Work experience
 
-* **2025.05 - current:** _Project Researcher_
+* **2025.05 - current:** Project Researcher
   * _Research Center for Advanced Science and Technology (RCAST), The University of Tokyo, Japan_
   * _Supervisor: Prof. Yu Kosaka_
 
-* **2023.09 - 2025.04:** _Postdoctoral Researcher_
+* **2023.09 - 2025.04:** Postdoctoral Researcher
   * _Earth Environment Research Center (EERC), Kongju National University, S. Korea_
   * _Supervisor: Prof. Joowan Kim & Prof. Eun-Chul Chang_
 
-* **2019.04 - 2023.02:** _Research Associate_
+* **2019.04 - 2023.02:** Research Associate
   * _Division of the Atmospheric Sciences, Korea Polar Research Institute (KOPRI), S. Korea_
   * _Supervisor: Dr. Seong-Joong Kim_
+
+**Full CV:** [Download my full CV (PDF)](/assets/files/CV_JeongHun_Kim_250729.pdf)
