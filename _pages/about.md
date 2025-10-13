@@ -6,12 +6,15 @@ redirect_from:
   - /about.html
 ---
 
-<h1>Welcome to my pages!!</h1>
+<h1>Jeong-Hun Kim (김정훈, 金正勳)</h1>
 <p>
-  I am currently a postdoctoral researcher in Prof. Yu Kosaka’s group at the Research Center for Advanced Science and Technology (RCAST) at The University of Tokyo (UTokyo), Japan.
-  I focus on the teleconnection mechanisms linking Arctic and high-latitude climate variability to mid-latitude extreme events, such as heat waves, cold waves, and severe air pollution.
-  I am also interested in subseasonal-to-seasonal (S2S) and global climate modeling of extreme events in high- and mid-latitudes.
-  Previously, I worked as a research associate at the Korea Polar Research Institute (KOPRI) and the Earth Environment Research Center at Kongju National University in Korea.
+Postdoctoral Researcher, Research Center for Advanced Science and Technology (RCAST), The University of Tokyo.
+Currently, working with Prof. Yu Kosaka.
+
+Contact: jkhun (at) atmos.rcast.u-tokyo.ac.jp ; j.khun1209 (at) gmail.com
+Address: Bldg. 3, Room 413, Research Center for Advanced Science and Technology, The University of Tokyo  
+4-6-1 Komaba, Meguro-ku, Tokyo 153-8904, Japan  
+(〒153-8904 東京都目黒区駒場4-6-1 東京大学先端科学技術研究センター 3号館413号室)  
 </p>
 
 **Research Interests**
