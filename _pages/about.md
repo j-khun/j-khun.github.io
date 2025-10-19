@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 ---
-# Jeong-Hun Kim (김 정훈, 金 正勳)
+# Jeong-Hun Kim (김 정훈, 金 正勳, キム ジョンフン)
 
 * Postdoctoral Researcher, Research Center for Advanced Science and Technology (RCAST), The University of Tokyo.<br>
   _Currently, working with Prof. Yu Kosaka_<br>
@@ -38,4 +38,4 @@ redirect_from:
 > Large-scale atmospheric teleconnection mechanisms affecting the severe air pollution events in Korea.
 
 ---
-## [GCDL-Prof. Kosaka](https://gcd.atmos.rcast.u-tokyo.ac.jp/kosaka_lab/ "GCDL")
+## [GCDL-Prof. Kosaka](https://gcd.atmos.rcast.u-tokyo.ac.jp/kosaka_lab/)
