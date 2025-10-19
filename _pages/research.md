@@ -2,25 +2,34 @@
 layout: archive
 title: "Research"
 permalink: /research/
-author_profile: true
+author_profile: false
 ---
 
 ---
 # - Heatwaves
 <!-- ![ASP teleconnection pattern](/images/Research_fig/Schematic_diagram_ASPt.png) -->
-<img src="/images/Research_fig/Schematic_diagram_ASPt.png" alt="ASP teleconnection pattern" width="600"/>
+<div style="display: flex; align-items: flex-start;">
+  <div style="flex: 0 0 auto; margin-right: 30px;">
+    <img src="/images/Research_fig/Schematic_diagram_ASPt.png" alt="ASP teleconnection pattern" width="320"/>
+  </div>
+  <div style="flex: 1;">
+    <h2>Heatwave Mechanisms by Large-scale Teleconnection Pattern</h2>
 
-## Heatwave Mechanisms by Large-scale Teleconnection Pattern
+    <h3>Heatwaves in East Asia &amp; South Korea</h3>
+    <blockquote>
+      Kim et al. (2019): CGT &amp; Heatwaves in South Korea<br>
+      Kim et al. (2021): AO &amp; Heatwaves in South Korea<br>
+      Kim et al. (2022): ASP &amp; Heatwaves in East Asia<br>
+      Kim et al. (in revision 2025): Performance Evaluation of CMIP6 on the ASP teleconenction pattern<br>
+      Nam et al. (in revision 2025): ASP &amp; CGT teleconnection
+    </blockquote>
 
-### Heatwaves in East Asia & South Korea
-> Kim et al. (2019): CGT & Heatwaves in South Korea<br>
-> Kim et al. (2021): AO & Heatwaves in South Korea<br>
-> Kim et al. (2022): ASP & Heatwaves in East Asia<br>
-> Kim et al. (in revision 2025): Performance Evaluation of CMIP6 on the ASP teleconenction pattern<br>
-> Nam et al. (in revision 2025): ASP & CGT teleconnection
-
-### Heatwaves in Europe
-> Kim et al. (2024): North Atlantic Ocean & 2022 Heatwave in Southwestern Europe
+    <h3>Heatwaves in Europe</h3>
+    <blockquote>
+      Kim et al. (2024): North Atlantic Ocean &amp; 2022 Heatwave in Southwestern Europe
+    </blockquote>
+  </div>
+</div>
 
 ---
 # - Moisture Transport in the Arctic
