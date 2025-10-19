@@ -23,13 +23,13 @@ author_profile: true
 
 ## Labs 🌦 ️
 * **The University of Tokyo (UTokyo)**
-    * [Prof. Yu Kosaka (UTokyo)](https://gcd.atmos.rcast.u-tokyo.ac.jp/kosaka_lab/)<br>
-    * [Prof. Hisashi Nakamura (UTokyo)](https://www.atmos.rcast.u-tokyo.ac.jp/nakamura_lab/en/)<br>
+    * [Prof. Yu Kosaka (GCDL-UTokyo)](https://gcd.atmos.rcast.u-tokyo.ac.jp/kosaka_lab/)<br>
+    * [Prof. Hisashi Nakamura (CSRL-UTokyo)](https://www.atmos.rcast.u-tokyo.ac.jp/nakamura_lab/en/)<br>
 
 * **Kongju National University (KNU)**
     * [Department of Atmospheric Sciences (KNU)](https://atmos.kongju.ac.kr)<br>
-    * [Prof. Maeng-Ki Kim (KNU)](https://climate443.wixsite.com/knucdl)<br>
-    * [Prof. Joowan Kim (KNU)](http://atmdyn.org/)<br>
+    * [Prof. Maeng-Ki Kim (CDL-KNU)](https://climate443.wixsite.com/knucdl)<br>
+    * [Prof. Joowan Kim (ADL-KNU)](http://atmdyn.org/)<br>
 
 ## Others ✅
 * [KMS (Korean Meteorological Society)](https://www.komes.or.kr:50000/)<br>
