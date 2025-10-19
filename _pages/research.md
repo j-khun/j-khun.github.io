@@ -6,11 +6,9 @@ author_profile: true
 ---
 
 ---
-# - Heatwaves
+## - Heatwave Mechanisms by Large-scale Teleconnection Pattern
 <!-- ![ASP teleconnection pattern](/images/Research_fig/Schematic_diagram_ASPt.png) -->
 <img src="/images/Research_fig/Schematic_diagram_ASPt.png" alt="ASP teleconnection pattern" width="600"/>
-
-## Heatwave Mechanisms by Large-scale Teleconnection Pattern
 
 ### Heatwaves in East Asia & South Korea
 > Kim et al. (2019): CGT & Heatwaves in South Korea<br>
@@ -23,19 +21,17 @@ author_profile: true
 > Kim et al. (2024): North Atlantic Ocean & 2022 Heatwave in Southwestern Europe
 
 ---
-# - Moisture Transport in the Arctic
+## - Mositure Transport in the Arctic & Arctic Amplification
 <!-- ![Moisture Transport](/images/Research_fig/Schematic_diagram_MTA.png) -->
 <img src="/images/Research_fig/Schematic_diagram_MTA.png" alt="Moisture Transport" width="600"/>
 
-## Mositure Transport in the Arctic & Arctic Amplification
 > Son et al. (2025)<br> 
 
 ---
-# - Air pollution Mechanism in South Korea
+## - Air Pollutions by Large-scale Teleconnection Pattern<br>
 <!-- ![EH-PM10 events](/images/Research_fig/Schematic_diagram_PM10.png) -->
 <img src="/images/Research_fig/Schematic_diagram_PM10.png" alt="EH-PM10 events" width="600"/>
 
-## Extremely High-PM10 events by Large-scale teleconnection pattern<br>
 > Kim et al. (2019)<br>
 > Kim et al. (2022)<br>
 > Kim et al. (2024)<br>
