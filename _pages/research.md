@@ -9,8 +9,8 @@ author_profile: false
 # - Heatwaves
 <!-- ![ASP teleconnection pattern](/images/Research_fig/Schematic_diagram_ASPt.png) -->
 <div style="display: flex; align-items: flex-start;">
-  <div style="flex: 0 0 auto; margin-right: 30px;">
-    <img src="/images/Research_fig/Schematic_diagram_ASPt.png" alt="ASP teleconnection pattern" width="320"/>
+  <div style="flex: 1; display: flex; justify-content: center; align-items: flex-start;">
+    <img src="/images/Research_fig/Schematic_diagram_ASPt.png" alt="ASP teleconnection pattern" style="max-width:100%; width:320px;"/>
   </div>
   <div style="flex: 1;">
     <h2>Heatwave Mechanisms by Large-scale Teleconnection Pattern</h2>
