@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ---
-# Links 🌐
+# Links 🔗
 
 ## Project 📋
 - **Hotspot3:** [https://hotspot3.aori.u-tokyo.ac.jp/en/](https://hotspot3.aori.u-tokyo.ac.jp/en/)
