@@ -7,7 +7,7 @@ author_profile: true
 
 
 # *Heatwaves
-[image]
+![ASP teleconnection pattern](/images/Research_fig/Schematic_diagram_ASPt.png)
 
 # *Moisture transport
 [image]
