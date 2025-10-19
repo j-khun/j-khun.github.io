@@ -8,7 +8,7 @@ author_profile: true
 ---
 # *Heatwaves
 <!-- ![ASP teleconnection pattern](/images/Research_fig/Schematic_diagram_ASPt.png) -->
-<img src="/images/Research_fig/Schematic_diagram_ASPt.png" alt="ASP teleconnection pattern" width="400"/>
+<img src="/images/Research_fig/Schematic_diagram_ASPt.png" alt="ASP teleconnection pattern" width="600"/>
 
 ## Heatwave Mechanisms by Large-scale Teleconnection Pattern
 
@@ -25,7 +25,7 @@ author_profile: true
 ---
 # Moisture Transport in the Arctic
 <!-- ![Moisture Transport](/images/Research_fig/Schematic_diagram_MTA.png) -->
-<img src="/images/Research_fig/Schematic_diagram_MTA.png" alt="Moisture Transport" width="400"/>
+<img src="/images/Research_fig/Schematic_diagram_MTA.png" alt="Moisture Transport" width="600"/>
 
 ## Mositure Transport in the Arctic & Arctic Amplification
 > Son et al. (2025)<br> 
@@ -33,7 +33,7 @@ author_profile: true
 ---
 # *Air pollution Mechanism in South Korea
 <!-- ![EH-PM10 events](/images/Research_fig/Schematic_diagram_PM10.png) -->
-<img src="/images/Research_fig/Schematic_diagram_PM10.png" alt="EH-PM10 events" width="300"/>
+<img src="/images/Research_fig/Schematic_diagram_PM10.png" alt="EH-PM10 events" width="600"/>
 
 ## Extremely High-PM10 events by Large-scale teleconnection pattern<br>
 > Kim et al. (2019)<br>
