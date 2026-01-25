@@ -31,11 +31,11 @@ redirect_from:
 
 * **2025.05 - current:** Project Researcher
   * _Research Center for Advanced Science and Technology (RCAST), The University of Tokyo, Japan_
-  * _Supervisor: Prof. Yu Kosaka_
+  * _Supervisor: Prof. Yu Kosaka & Prof. Hisashi Nakamura_
 
 * **2023.09 - 2025.04:** Postdoctoral Researcher
   * _Earth Environment Research Center (EERC), Kongju National University, S. Korea_
-  * _Supervisor: Prof. Joowan Kim & Prof. Eun-Chul Chang_
+  * _Supervisor: Prof. Joowan Kim_
 
 * **2019.04 - 2023.02:** Research Associate
   * _Division of the Atmospheric Sciences, Korea Polar Research Institute (KOPRI), S. Korea_
