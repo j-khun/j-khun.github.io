@@ -39,7 +39,7 @@ redirect_from:
 
 * **2019.04 - 2023.02:** Research Associate
   * _Division of the Atmospheric Sciences, Korea Polar Research Institute (KOPRI), S. Korea_
-  * _Supervisor: Dr. Seong-Joong Kim_
+  * _Supervisor: Dr. Seong-Joong Kim & Dr. Joo-Hong Kim_
 
 ## Awards🏆
 * **Best Presentation Award**, The Korean Society of Climate Change Research, 2024
