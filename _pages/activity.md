@@ -27,7 +27,7 @@ author_profile: true
   → **[Oral]** Arctic-Siberian Plain Warming and Its Role in East Asian Heat Waves: Mechanisms and CMIP6 Evaluation  
   *<b><u>Jeong-Hun Kim</u></b>, Maeng-Ki Kim, Seong-Joong Kim, Joo-Hong Kim, Joowan Kim, Michiya Hayashi, Jiwoo Lee, Yu Kosaka*
 
-  → **[Oral]** <a href="/activity/intl-conferences/baco25-2025-oral-sjkim/">Two faces of polar climate change and their influences on midlatitudes</a>  
+  → **[Oral]** Two faces of polar climate change and their influences on midlatitudes    
   *<u>Seong-Joong Kim</u>, Hyesun Choi, Eui-Seok Chung, <b>Jeong-Hun Kim</b>, Baek-Min Kim, Joo-Hong Kim, Sang-Yun Jun*
 
 - <a href="/activity/intl-conferences/midlatitude-workshop-2025-poster-1/"><b>International Workshop “Mid-latitude Atmosphere-Ocean-Ecosystem Interactions: Processes, Predictability, and Habitability”</b></a> (2025.07, Fukuoka, Japan)  
@@ -42,7 +42,7 @@ author_profile: true
   → **[Poster]** Performance Evaluation of CMIP6 Models on the Arctic-Siberian Plain Warming Affecting the East Asian Heat Waves  
   *<b><u>Jeong-Hun Kim</u></b>, Joowan Kim, Jiwoo Lee, Maeng-Ki Kim*
 
-  → **[Poster]** <a href="/activity/intl-conferences/agu-2024-poster-pm25/">Synergy effect of the synoptic and Quasi-bi-weekly time-scale (high and low frequency) atmospheric circulation pattern on the high PM2.5 concentration in South Korea</a>  
+  → **[Poster]** Synergy effect of the synoptic and Quasi-bi-weekly time-scale (high and low frequency) atmospheric circulation pattern on the high PM2.5 concentration in South Korea  
   *<u>Seyeong Lee</u>, <b>Jeong-Hun Kim</b>, Maeng-Ki Kim, Sang-Hyun Lee*
 
 - <a href="/activity/intl-conferences/aogs-2024-poster-pm10/"><b>AOGS Annual Meeting</b></a> (2024.06, Pyeongchang, S.Korea)  
@@ -89,7 +89,7 @@ author_profile: true
   → **[Poster]** Relationship between Arctic Sea Ice amount and PM10 Concentration in South Korea on January  
   *<b><u>Jeong-Hun Kim</u></b>, Maeng-Ki Kim, Chang-Hoi Ho, Rokjin J. Park, Minjoong J. Kim, Cheol-Soo Lim, Seong-Joong Kim*
 
-  → **[Poster]** <a href="/activity/intl-conferences/agu-2019-poster-cmip5-hw/">Heatwave mechanism in South Korea and its performance evaluation in CMIP5 models</a>  
+  → **[Poster]** Heatwave mechanism in South Korea and its performance evaluation in CMIP5 models  
   *<u>Ji-Seon Oh</u>, Maeng-Ki Kim, Dae-Geun Yu, Jeong Sang, <b>Jeong-Hun Kim</b>*
 
 - <a href="/activity/intl-conferences/kopri-2021-poster-bks-pm10/"><b>International Arctic-East Asia Weather Linkage Workshop</b></a> (2019.05, Incheon, S.Korea)  
