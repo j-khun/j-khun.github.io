@@ -1,12 +1,12 @@
 ---
 layout: archive
-title: "Activity"
+title: ""
 permalink: /activity/
 author_profile: true
 ---
 
 # International Conference Presentations
-
+(Photos will be uploaded to the links soon.)
 ---
 
 ## 2026
