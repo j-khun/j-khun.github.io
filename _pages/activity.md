@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 # International Conference Presentations
-(Photos will be uploaded to the links soon.)
+(Photos will be uploaded to the links soon.)  
 ---
 
 ## 2026
