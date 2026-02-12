@@ -12,14 +12,14 @@ author_profile: true
 
 
 ## [In revision]
-- **Kim, J. H.**, Kim, M. K., Kim. J.\*, Lee, J., Kosaka, Y. (2025) Performance Evaluation of CMIP6 Models on the Arctic-Siberian Plain Teleconnection Affecting the East Asian Heat Waves. [in revision]
 
 ---
 
 ## [International]
 
 ### 2026
-- Nam, S. H., **Kim, J. H.**, Oh, J. S., Kim, M. K.\*, (2026) Changing Contributions of Teleconnection Patterns to Extreme Heat Events in East Asia. *Weather and Climate Extremes*, 100865. [Link](https://doi.org/10.1016/j.wace.2026.100865)
+- **Kim, J. H.**, Kim, M. K., Kim. J.\*, Lee, J., Kosaka, Y. (2026) Performance evaluation of CMIP6 models on the Arctic-Siberian Plain teleconnection affecting the East Asian heat waves. *Weather and Climate Extremes*, 51, 100867. [Link] (https://doi.org/10.1016/j.wace.2026.100867)
+- Nam, S. H., **Kim, J. H.**, Oh, J. S., Kim, M. K.\*, (2026) Changing Contributions of Teleconnection Patterns to Extreme Heat Events in East Asia. *Weather and Climate Extremes*, 51, 100865. [Link](https://doi.org/10.1016/j.wace.2026.100865)
 
 ### 2025
 - Lee, S., **Kim, J. H.**, Kim, M. K.\*, Lee, S. H., Kim, C. H. (2025). Synergistic effects of synoptic and quasi-biweekly timescale atmospheric circulation patterns on PM2.5 concentration in South Korea. *Atmospheric Environment*, 121122. [Link](https://doi.org/10.1016/j.atmosenv.2025.121122)  
