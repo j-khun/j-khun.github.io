@@ -18,7 +18,7 @@ author_profile: true
 ## [International]
 
 ### 2026
-- **Kim, J. H.**, Kim, M. K., Kim. J.\*, Lee, J., Kosaka, Y. (2026) Performance evaluation of CMIP6 models on the Arctic-Siberian Plain teleconnection affecting the East Asian heat waves. *Weather and Climate Extremes*, 51, 100867. [Link] (https://doi.org/10.1016/j.wace.2026.100867)
+- **Kim, J. H.**, Kim, M. K., Kim. J.\*, Lee, J., Kosaka, Y. (2026) Performance evaluation of CMIP6 models on the Arctic-Siberian Plain teleconnection affecting the East Asian heat waves. *Weather and Climate Extremes*, 51, 100867. [Link](https://doi.org/10.1016/j.wace.2026.100867)
 - Nam, S. H., **Kim, J. H.**, Oh, J. S., Kim, M. K.\*, (2026) Changing Contributions of Teleconnection Patterns to Extreme Heat Events in East Asia. *Weather and Climate Extremes*, 51, 100865. [Link](https://doi.org/10.1016/j.wace.2026.100865)
 
 ### 2025
