@@ -15,7 +15,7 @@ author_profile: true
 > Kim et al. (2021): AO & Heatwaves in South Korea<br>
 > Kim et al. (2022): ASP & Heatwaves in East Asia<br>
 > Kim et al. (2026): Performance Evaluation of CMIP6 on the ASP teleconenction pattern<br>
-> Nam et al. (2026): ASP & CGT teleconnection
+> Nam et al. (2026): Changing Contributions of ASP & CGT teleconnection<br>
 
 ### Heatwaves in Europe
 > Kim et al. (2024): North Atlantic Ocean & 2022 Heatwave in Southwestern Europe
