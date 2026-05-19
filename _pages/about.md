@@ -1,12 +1,12 @@
 ---
 permalink: /
 title: Jeong-Hun Kim (김 정훈, 金 正勳, キム ジョンフン)
-uthor_profile: true
+author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
+<meta name="google-site-verification" content="BKiUaSWSZnGEC1L1EcVeTIO37o8tFYVLodqu_ukckdo" />
 ---
 <!-- # Jeong-Hun Kim (김 정훈, 金 正勳, キム ジョンフン) -->
 
