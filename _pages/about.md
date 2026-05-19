@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: Welcome to visit my pages!😎
+title: Jeong-Hun Kim (김 정훈, 金 正勳, キム ジョンフン)
 uthor_profile: true
 redirect_from: 
   - /about/
@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 ---
-# Jeong-Hun Kim (김 정훈, 金 正勳, キム ジョンフン)
+<!-- # Jeong-Hun Kim (김 정훈, 金 正勳, キム ジョンフン) -->
 
 * Postdoctoral Researcher, Research Center for Advanced Science and Technology (RCAST), The University of Tokyo.<br>
   _Currently, working with Prof. Yu Kosaka_<br>
