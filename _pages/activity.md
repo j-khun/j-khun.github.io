@@ -11,7 +11,7 @@ author_profile: true
 
 ## 2026
 
-- <a href="/activity/intl-conferences/AMLworkshop-2026/"><b>1st Arctic- and Tropical-Midlatitude Linkage and Extremes Workshop</b></a> (Apr 2026, Taipei, Taiwan)
+- <a href="/activity/intl-conferences/AMLworkshop-2026/"><b>1st Arctic- and Tropical-Midlatitude Linkage and Extremes Workshop</b></a> (Apr 2026, Taipei, Taiwan)   
   → **[Oral]** From the Arctic and High Latitudes to East Asia: Emerging Teleconnections Driving Extreme Heatwaves
 
 - <a href="/activity/intl-conferences/rossbyworkshop-2026/"><b>2nd Workshop on the Dynamics of Rossby waves, compound extremes and their impacts</b></a> (Jan 2026, Amsterdam, Netherlands)  
