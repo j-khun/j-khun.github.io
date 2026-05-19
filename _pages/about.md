@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: Jeong-Hun Kim (김 정훈, 金 正勳, キム ジョンフン)
+title: (Ph.D.) Jeong-Hun Kim (김 정훈, 金 正勳, キム ジョンフン)
 author_profile: true
 redirect_from: 
   - /about/
@@ -10,6 +10,7 @@ redirect_from:
 ---
 <!-- # Jeong-Hun Kim (김 정훈, 金 正勳, キム ジョンフン) -->
 
+* **Ph.D. in Atmospheric Sciences**
 * Postdoctoral Researcher, Research Center for Advanced Science and Technology (RCAST), The University of Tokyo.<br>
   _Currently, working with Prof. Yu Kosaka_<br>
 
