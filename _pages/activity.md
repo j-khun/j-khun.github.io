@@ -1,4 +1,5 @@
 ---
+
 layout: archive
 title: "Activity"
 permalink: /activity/
@@ -70,18 +71,18 @@ author_profile: true
 
 <div class="activity-grid">
   <a href="/activity/intl-conferences/AMLworkshop-2026/" class="activity-card">
-    <img src="/images/placeholder.jpg" alt="AML workshop" class="activity-image" />
-    <div class="activity-caption">AML Workshop in Taiwan, 26.04</div>
+    <img src="/images/Activity_photo/2604_AMLworkshop/AML_workshop_group_picture.jpeg" alt="AML workshop" class="activity-image" />
+    <div class="activity-caption">AML Workshop in Taiwan, Apr, 2026</div>
   </a>
 
   <a href="/activity/intl-conferences/rossbyworkshop-2026/" class="activity-card">
     <img src="/images/placeholder.jpg" alt="Rossby waves workshop" class="activity-image" />
-    <div class="activity-caption">Rossby Waves Workshop in Netherlands, 26.01</div>
+    <div class="activity-caption">Rossby Waves Workshop in Netherlands, Jan, 2026</div>
   </a>
 
   <a href="/activity/intl-conferences/japan-taiwan-reanalysis-2026/" class="activity-card">
     <img src="/images/placeholder.jpg" alt="Japan-Taiwan Reanalysis" class="activity-image" />
-    <div class="activity-caption">Japan-Taiwan Reanalysis Workshop in Taiwan, 26.01</div>
+    <div class="activity-caption">Japan-Taiwan Reanalysis Workshop in Taiwan, Jan, 2026</div>
   </a>
 </div>
 
@@ -90,27 +91,27 @@ author_profile: true
 <div class="activity-grid">
   <a href="/activity/intl-conferences/interbasin-2025/" class="activity-card">
     <img src="/images/placeholder.jpg" alt="Interbasin workshop" class="activity-image" />
-    <div class="activity-caption">Interbasin Workshop in Japan, 25.12</div>
+    <div class="activity-caption">Interbasin Workshop in Japan, Dec, 2025</div>
   </a>
 
   <a href="/activity/intl-conferences/a3-foresight-2025/" class="activity-card">
     <img src="/images/placeholder.jpg" alt="A3 Foresight" class="activity-image" />
-    <div class="activity-caption">A3 Foresight Workshop in Korea, 25.11</div>
+    <div class="activity-caption">A3 Foresight Workshop in Korea, Nov, 2025</div>
   </a>
 
   <a href="/activity/intl-conferences/baco25-2025-oral/" class="activity-card">
     <img src="/images/placeholder.jpg" alt="BACO-25" class="activity-image" />
-    <div class="activity-caption">BACO-25 in Korea, 25.07</div>
+    <div class="activity-caption">BACO-25 in Korea, Jul, 2025</div>
   </a>
 
   <a href="/activity/intl-conferences/midlatitude-workshop-2025-poster-1/" class="activity-card">
     <img src="/images/placeholder.jpg" alt="Mid-latitude Workshop Poster 1" class="activity-image" />
-    <div class="activity-caption">Mid-latitude Workshop in Japan, 25.07</div>
+    <div class="activity-caption">Mid-latitude Workshop in Japan, Jul, 2025</div>
   </a>
 
   <a href="/activity/intl-conferences/midlatitude-workshop-2025-poster-2/" class="activity-card">
     <img src="/images/placeholder.jpg" alt="Mid-latitude Workshop Poster 2" class="activity-image" />
-    <div class="activity-caption">Mid-latitude Workshop in Japan, 25.07</div>
+    <div class="activity-caption">Mid-latitude Workshop in Japan, Jul, 2025</div>
   </a>
 </div>
 
@@ -119,17 +120,17 @@ author_profile: true
 <div class="activity-grid">
   <a href="/activity/intl-conferences/agu-2024-poster-asp/" class="activity-card">
     <img src="/images/placeholder.jpg" alt="AGU Fall Meeting 2024" class="activity-image" />
-    <div class="activity-caption">AGU Fall Meeting in USA, 24.12</div>
+    <div class="activity-caption">AGU Fall Meeting in USA, Dec, 2024</div>
   </a>
 
   <a href="/activity/intl-conferences/aogs-2024-poster-pm10/" class="activity-card">
     <img src="/images/placeholder.jpg" alt="AOGS 2024" class="activity-image" />
-    <div class="activity-caption">AOGS Annual Meeting in Korea, 24.06</div>
+    <div class="activity-caption">AOGS Annual Meeting in Korea, Jun, 2024</div>
   </a>
 
   <a href="/activity/intl-conferences/egu-2024-poster-iberia/" class="activity-card">
     <img src="/images/placeholder.jpg" alt="EGU 2024" class="activity-image" />
-    <div class="activity-caption">EGU General Assembly in Austria, 24.04</div>
+    <div class="activity-caption">EGU General Assembly in Austria, Apr, 2024</div>
   </a>
 </div>
 
@@ -138,17 +139,17 @@ author_profile: true
 <div class="activity-grid">
   <a href="/activity/intl-conferences/agu-2023-poster-iberia/" class="activity-card">
     <img src="/images/placeholder.jpg" alt="AGU 2023" class="activity-image" />
-    <div class="activity-caption">AGU Fall Meeting in USA, 23.12</div>
+    <div class="activity-caption">AGU Fall Meeting in USA, Dec, 2023</div>
   </a>
 
   <a href="/activity/intl-conferences/aogs-2023-oral-asp/" class="activity-card">
     <img src="/images/placeholder.jpg" alt="AOGS 2023" class="activity-image" />
-    <div class="activity-caption">AOGS Annual Meeting in Singapore, 23.08</div>
+    <div class="activity-caption">AOGS Annual Meeting in Singapore, Aug, 2023</div>
   </a>
 
   <a href="/activity/intl-conferences/egu-2023-oral-asp/" class="activity-card">
     <img src="/images/placeholder.jpg" alt="EGU 2023" class="activity-image" />
-    <div class="activity-caption">EGU General Assembly Online, 23.04</div>
+    <div class="activity-caption">EGU General Assembly Online, Apr, 2023</div>
   </a>
 </div>
 
@@ -157,7 +158,7 @@ author_profile: true
 <div class="activity-grid">
   <a href="/activity/intl-conferences/agu-2022-oral-asp/" class="activity-card">
     <img src="/images/placeholder.jpg" alt="AGU 2022" class="activity-image" />
-    <div class="activity-caption">AGU Fall Meeting in USA, 22.12</div>
+    <div class="activity-caption">AGU Fall Meeting in USA, Dec, 2022</div>
   </a>
 </div>
 
@@ -166,12 +167,12 @@ author_profile: true
 <div class="activity-grid">
   <a href="/activity/intl-conferences/agu-2021-poster-naea-pm10/" class="activity-card">
     <img src="/images/placeholder.jpg" alt="AGU 2021" class="activity-image" />
-    <div class="activity-caption">AGU Fall Meeting Online, 21.12</div>
+    <div class="activity-caption">AGU Fall Meeting Online, Dec, 2021</div>
   </a>
 
   <a href="/activity/intl-conferences/kopri-2021-poster-bks-pm10/" class="activity-card">
     <img src="/images/placeholder.jpg" alt="KOPRI 2021" class="activity-image" />
-    <div class="activity-caption">KOPRI Symposium in Korea, 21.09</div>
+    <div class="activity-caption">KOPRI Symposium in Korea, Sep, 2021</div>
   </a>
 </div>
 
@@ -180,12 +181,12 @@ author_profile: true
 <div class="activity-grid">
   <a href="/activity/intl-conferences/agu-2020-poster-nae-summerhw/" class="activity-card">
     <img src="/images/placeholder.jpg" alt="AGU 2020" class="activity-image" />
-    <div class="activity-caption">AGU Fall Meeting Online, 20.12</div>
+    <div class="activity-caption">AGU Fall Meeting Online, Dec, 2020</div>
   </a>
 
   <a href="/activity/intl-conferences/aogs-2020-poster-asi-hw/" class="activity-card">
     <img src="/images/placeholder.jpg" alt="AOGS 2020" class="activity-image" />
-    <div class="activity-caption">AOGS Annual Meeting (Canceled), 20.07</div>
+    <div class="activity-caption">AOGS Annual Meeting (Canceled), Jul, 2020</div>
   </a>
 </div>
 
@@ -194,12 +195,12 @@ author_profile: true
 <div class="activity-grid">
   <a href="/activity/intl-conferences/agu-2019-poster-asi-pm10/" class="activity-card">
     <img src="/images/placeholder.jpg" alt="AGU 2019" class="activity-image" />
-    <div class="activity-caption">AGU Fall Meeting in USA, 19.12</div>
+    <div class="activity-caption">AGU Fall Meeting in USA, Dec, 2019</div>
   </a>
 
   <a href="/activity/intl-conferences/egu-2019-poster-india-heating/" class="activity-card">
     <img src="/images/placeholder.jpg" alt="EGU 2019" class="activity-image" />
-    <div class="activity-caption">EGU General Assembly in Austria, 19.04</div>
+    <div class="activity-caption">EGU General Assembly in Austria, Apr, 2019</div>
   </a>
 </div>
 
@@ -208,11 +209,11 @@ author_profile: true
 <div class="activity-grid">
   <a href="/activity/intl-conferences/agu-2018-poster-nh-circ-pm10/" class="activity-card">
     <img src="/images/placeholder.jpg" alt="AGU 2018" class="activity-image" />
-    <div class="activity-caption">AGU Fall Meeting in USA, 18.12</div>
+    <div class="activity-caption">AGU Fall Meeting in USA, Dec, 2018</div>
   </a>
 
   <a href="/activity/intl-conferences/egu-2018-poster-tp-sensible-heat/" class="activity-card">
     <img src="/images/placeholder.jpg" alt="EGU 2018" class="activity-image" />
-    <div class="activity-caption">EGU General Assembly in Austria, 18.04</div>
+    <div class="activity-caption">EGU General Assembly in Austria, Apr, 2018</div>
   </a>
 </div>
