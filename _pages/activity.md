@@ -76,7 +76,7 @@ author_profile: true
   </a>
 
   <a href="/activity/intl-conferences/rossbyworkshop-2026/" class="activity-card">
-    <img src="/images/placeholder.jpg" alt="Rossby waves workshop" class="activity-image" />
+    <img src="/images/Activity_photo/2601_RWworkshop/2601_RW_workshop.jpeg" alt="Rossby waves workshop" class="activity-image" />
     <div class="activity-caption">Rossby Waves Workshop in Netherlands, Jan, 2026</div>
   </a>
 
