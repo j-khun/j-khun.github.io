@@ -14,7 +14,7 @@ author_profile: true
 ## [In revision]
 - Noh et al. (under review) European Heatwaves. [Link](https://doi.org/10.21203/rs.3.rs-9416442/v1)  
 - Kim et al. (under review) Eurasia Compound extreme events.
-
+- Chong et al. (under review) Silk Road pattern.
 ---
 
 ## [International]
