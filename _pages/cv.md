@@ -19,7 +19,7 @@ redirect_from:
 
 * **2023.09 - 2025.04:** Postdoctoral Researcher
   * _Earth Environment Research Center (EERC), Kongju National University, S. Korea_
-  * _Supervisor: Prof. Joowan Kim_
+  * _Supervisor: Prof. Joowan Kim & Prof. Eun-Chul Chang_
 
 * **2019.04 - 2023.02:** Research Associate
   * _Division of the Atmospheric Sciences, Korea Polar Research Institute (KOPRI), S. Korea_
