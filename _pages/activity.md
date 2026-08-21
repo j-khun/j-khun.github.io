@@ -70,9 +70,19 @@ author_profile: true
 ## 2026
 
 <div class="activity-grid">
+  <a href="/activity/intl-conferences/AOGS-2026/" class="activity-card">
+    <img src="/images/Activity_photo/2608_AOGS/AOGS26_picture.jpeg" alt="AOGS 2026" class="activity-image" />
+    <div class="activity-caption">2026 AOGS in Fukuoka, Japan, Aug, 2026</div>
+  </a>
+
   <a href="/activity/intl-conferences/AMLworkshop-2026/" class="activity-card">
     <img src="/images/Activity_photo/2604_AMLworkshop/AML_workshop_group_picture.jpeg" alt="AML workshop" class="activity-image" />
     <div class="activity-caption">AML Workshop in Taiwan, Apr, 2026</div>
+  </a>
+
+  <a href="/activity/intl-conferences/CMIPworkshop-2026/" class="activity-card">
+    <img src="/images/Activity_photo/2603_CMIPworkshop/CMIP_workshop_group_picture.jpeg" alt="CMIP workshop" class="activity-image" />
+    <div class="activity-caption">CMIP Workshop in Kyoto, Japan, Mar, 2026</div>
   </a>
 
   <a href="/activity/intl-conferences/rossbyworkshop-2026/" class="activity-card">
