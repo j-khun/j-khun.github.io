@@ -17,7 +17,7 @@ redirect_from:
 * **Contact:** jkhun (at) atmos.rcast.u-tokyo.ac.jp<br>
   j.khun1209 (at) gmail.com<br>
 * **Address:**<br>
-  Bldg. 3, Room 413, Research Center for Advanced Science and Technology, The University of Tokyo<br>
+  Bldg. 3, Room #413, Research Center for Advanced Science and Technology, The University of Tokyo<br>
   4-6-1 Komaba, Meguro-ku, Tokyo 153-8904, Japan<br>
   (〒153-8904 東京都目黒区駒場4-6-1 東京大学先端科学技術研究センター 3号館413号室)<br>
 
@@ -29,14 +29,17 @@ redirect_from:
 
 ## Research Interests
 
-**1. Heatwave Mechanism by Large-scale Teleconnection**<br>
+**1. Heatwave & Drought Mechanism by Large-scale Teleconnection**<br>
 > Impact of large-scale teleconnection patterns originating in the Arctic/high latitudes on mid-latitude heat waves.<br>
 
-**2. Moisture transport to the Arctic**<br>
-> Research on poleward water vapor transport and its effects on Arctic warming.
+**2. Moisture Transport to the Arctic**<br>
+> Research on poleward water vapor transport and its effects on Arctic amplification.
 
-**3. Air Pollution Mechanism in South Korea**<br>
-> Large-scale atmospheric teleconnection mechanisms affecting the severe air pollution events in Korea.
+**3. Evaluation of the Precipitation by Regional Reanalysis**<br>
+> Performance evaluation of the precipitation and heavy rainfall events in South Korea using the regional reanalysis (RRJ-ClimCORE).
+
+**4. Air Pollution Mechanism by Large-scale Teleconnection**<br>
+> Impact of large-scale teleconnection on severe air pollution events..
 
 ---
-## [GCDL-Prof. Kosaka](https://gcd.atmos.rcast.u-tokyo.ac.jp/kosaka_lab/)
+### [GCDL-Prof. Kosaka](https://gcd.atmos.rcast.u-tokyo.ac.jp/kosaka_lab/)
