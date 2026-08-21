@@ -72,7 +72,7 @@ author_profile: true
 <div class="activity-grid">
   <a href="/activity/intl-conferences/AOGS-2026/" class="activity-card">
     <img src="/images/Activity_photo/2608_AOGS/AOGS26_picture.jpeg" alt="AOGS 2026" class="activity-image" />
-    <div class="activity-caption">2026 AOGS in Fukuoka, Japan, Aug, 2026</div>
+    <div class="activity-caption">2026 AOGS in Japan, Aug, 2026</div>
   </a>
 
   <a href="/activity/intl-conferences/AMLworkshop-2026/" class="activity-card">
@@ -82,7 +82,7 @@ author_profile: true
 
   <a href="/activity/intl-conferences/CMIPworkshop-2026/" class="activity-card">
     <img src="/images/Activity_photo/2603_CMIPworkshop/CMIP_workshop_group_picture.jpeg" alt="CMIP workshop" class="activity-image" />
-    <div class="activity-caption">CMIP Workshop in Kyoto, Japan, Mar, 2026</div>
+    <div class="activity-caption">CMIP Workshop in Japan, Mar, 2026</div>
   </a>
 
   <a href="/activity/intl-conferences/rossbyworkshop-2026/" class="activity-card">
@@ -106,23 +106,19 @@ author_profile: true
 
   <a href="/activity/intl-conferences/a3-foresight-2025/" class="activity-card">
     <img src="/images/placeholder.jpg" alt="A3 Foresight" class="activity-image" />
-    <div class="activity-caption">A3 Foresight Workshop in Korea, Nov, 2025</div>
+    <div class="activity-caption">A3-Foresight Meeting in S. Korea, Nov, 2025</div>
   </a>
 
   <a href="/activity/intl-conferences/baco25-2025-oral/" class="activity-card">
     <img src="/images/placeholder.jpg" alt="BACO-25" class="activity-image" />
-    <div class="activity-caption">BACO-25 in Korea, Jul, 2025</div>
+    <div class="activity-caption">BACO-25 in S. Korea, Jul, 2025</div>
   </a>
 
   <a href="/activity/intl-conferences/midlatitude-workshop-2025-poster-1/" class="activity-card">
     <img src="/images/placeholder.jpg" alt="Mid-latitude Workshop Poster 1" class="activity-image" />
-    <div class="activity-caption">Mid-latitude Workshop in Japan, Jul, 2025</div>
+    <div class="activity-caption">Habitable Japan Int. Workshop in Japan, Jul, 2025</div>
   </a>
 
-  <a href="/activity/intl-conferences/midlatitude-workshop-2025-poster-2/" class="activity-card">
-    <img src="/images/placeholder.jpg" alt="Mid-latitude Workshop Poster 2" class="activity-image" />
-    <div class="activity-caption">Mid-latitude Workshop in Japan, Jul, 2025</div>
-  </a>
 </div>
 
 ## 2024
@@ -130,7 +126,7 @@ author_profile: true
 <div class="activity-grid">
   <a href="/activity/intl-conferences/agu-2024-poster-asp/" class="activity-card">
     <img src="/images/placeholder.jpg" alt="AGU Fall Meeting 2024" class="activity-image" />
-    <div class="activity-caption">AGU Fall Meeting in USA, Dec, 2024</div>
+    <div class="activity-caption">2024 AGU Fall Meeting in USA, Dec, 2024</div>
   </a>
 
   <a href="/activity/intl-conferences/aogs-2024-poster-pm10/" class="activity-card">
