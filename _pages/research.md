@@ -80,7 +80,7 @@ author_profile: true
   </div>
 
   <div class="research-item">
-    <h3>Mositure Transport in the Arctic & Arctic Amplification</h3>
+    <h3>Mechanism of the Arctic Amplification Change</h3>
     <img src="/images/Research_fig/Schematic_diagram_MTA.png" alt="Moisture Transport" />
     <br>
     <blockquote>

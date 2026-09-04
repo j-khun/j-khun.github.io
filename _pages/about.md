@@ -32,8 +32,8 @@ redirect_from:
 **1. Heatwave & Drought Mechanism by Large-scale Teleconnection**<br>
 > Impact of large-scale teleconnection patterns originating in the Arctic/high latitudes on mid-latitude heat waves.<br>
 
-**2. Moisture Transport to the Arctic**<br>
-> Research on poleward water vapor transport and its effects on Arctic amplification.
+**2. Mechanism of the Arctic Amplification Change**<br>
+> Research on the mechanism of Arctic amplification.
 
 **3. Evaluation of the Precipitation by Regional Reanalysis**<br>
 > Performance evaluation of the precipitation and heavy rainfall events in South Korea using the regional reanalysis (RRJ-ClimCORE).
