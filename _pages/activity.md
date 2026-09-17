@@ -1,5 +1,4 @@
 ---
-
 layout: archive
 title: "Activity"
 permalink: /activity/
@@ -7,219 +6,323 @@ author_profile: true
 ---
 
 <style>
-  /* 연도별 3열 그리드 레이아웃 */
-  .activity-grid {
-    display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    gap: 25px;
-    margin-bottom: 50px;
-  }
-
-  /* 클릭 가능한 개별 카드 스타일 */
-  .activity-card {
-    text-decoration: none !important;
-    color: inherit;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    transition: transform 0.2s ease, box-shadow 0.2s ease;
-  }
-
-  .activity-card:hover {
-    transform: translateY(-5px);
-  }
-
-  /* 이미지 정사각형 비율 고정 및 스타일 */
-  .activity-image {
-    width: 100%;
-    aspect-ratio: 1 / 1; /* 3x4 비율을 원하면 3 / 4 로 변경하세요 */
-    object-fit: cover;
-    border-radius: 12px;
-    background-color: #f1f3f5; /* 이미지가 없을 때 회색 배경 */
-    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
-    margin-bottom: 15px;
-  }
-
-  /* 사진 아래 짧은 문구 */
-  .activity-caption {
-    text-align: center;
+  .activity-list { margin: 0 0 2.5em; }
+  .activity-meeting { border-bottom: 1px solid #e5e5e5; }
+  .activity-meeting > summary {
+    cursor: pointer;
+    list-style: none;
+    padding: 0.9em 0;
     font-weight: 600;
-    font-size: 0.95em;
-    line-height: 1.4;
-    color: #333;
+    line-height: 1.45;
   }
-
-  /* 모바일/태블릿 반응형 처리 */
-  @media (max-width: 768px) {
-    .activity-grid {
-      grid-template-columns: repeat(2, 1fr); /* 태블릿에서는 2열 */
-    }
+  .activity-meeting > summary::-webkit-details-marker { display: none; }
+  .activity-meeting > summary::before { content: "▸ "; color: #666; font-weight: 400; }
+  .activity-meeting[open] > summary::before { content: "▾ "; }
+  .activity-body { padding: 0 0 1.2em 1.2em; }
+  .activity-body ul { margin: 0 0 0.75em; padding-left: 1.2em; }
+  .activity-body li { margin-bottom: 0.6em; line-height: 1.45; }
+  .activity-authors { display: block; margin-top: 0.2em; color: #666; font-size: 0.92em; }
+  .activity-photo {
+    display: block;
+    width: min(520px, 100%);
+    margin: 0.75em 0 0.25em;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.08);
   }
-  @media (max-width: 480px) {
-    .activity-grid {
-      grid-template-columns: 1fr; /* 모바일에서는 1열 */
-    }
-  }
+  .activity-photo-caption { font-size: 0.88em; color: #666; margin: 0; }
 </style>
 
 # International Conference Presentations
-(Photos will be uploaded to the links soon.)
+
+Click each meeting to expand presentation details. Photos appear when available.
 
 ---
 
 ## 2026
 
-<div class="activity-grid">
-  <a href="/activity/intl-conferences/AOGS-2026/" class="activity-card">
-    <img src="/images/Activity_photo/2608_AOGS/AOGS26_picture.jpeg" alt="AOGS 2026" class="activity-image" />
-    <div class="activity-caption">2026 AOGS in Japan, Aug, 2026</div>
-  </a>
+<details class="activity-meeting">
+  <summary>2026. AOGS (Japan)</summary>
+  <div class="activity-body">
+    <p>Presentation details will be added soon.</p>
+  </div>
+</details>
 
-  <a href="/activity/intl-conferences/AMLworkshop-2026/" class="activity-card">
-    <img src="/images/Activity_photo/2604_AMLworkshop/AML_workshop_group_picture.jpeg" alt="AML workshop" class="activity-image" />
-    <div class="activity-caption">AML Workshop in Taiwan, Apr, 2026</div>
-  </a>
+<details class="activity-meeting">
+  <summary>2026. Arctic- and Tropical-Midlatitude Linkage and Extremes Workshop (Taipei, Taiwan)</summary>
+  <div class="activity-body">
+    <ul>
+      <li><b>[Oral]</b> From the Arctic and High Latitudes to East Asia: Emerging Teleconnections Driving Extreme Heatwaves</li>
+    </ul>
+    <img class="activity-photo" src="/images/Activity_photo/2604_AMLworkshop/AML_workshop_group_picture.jpeg" alt="AML workshop 2026" />
+    <p class="activity-photo-caption">AML Workshop, Apr 2026</p>
+  </div>
+</details>
 
-  <a href="/activity/intl-conferences/CMIPworkshop-2026/" class="activity-card">
-    <img src="/images/Activity_photo/2603_CMIPworkshop/CMIP_workshop_group_picture.jpeg" alt="CMIP workshop" class="activity-image" />
-    <div class="activity-caption">CMIP Workshop in Japan, Mar, 2026</div>
-  </a>
+<details class="activity-meeting">
+  <summary>2026. CMIP Workshop (Japan)</summary>
+  <div class="activity-body">
+    <p>Presentation details will be added soon.</p>
+  </div>
+</details>
 
-  <a href="/activity/intl-conferences/rossbyworkshop-2026/" class="activity-card">
-    <img src="/images/Activity_photo/2601_RWworkshop/2601_RW_workshop.jpeg" alt="Rossby waves workshop" class="activity-image" />
-    <div class="activity-caption">Rossby Waves Workshop in Netherlands, Jan, 2026</div>
-  </a>
+<details class="activity-meeting">
+  <summary>2026. Workshop on the Dynamics of Rossby Waves, Compound Extremes and Their Impacts (Amsterdam, Netherlands)</summary>
+  <div class="activity-body">
+    <ul>
+      <li><b>[Poster]</b> Eurasian Summertime Intra-seasonal Oscillation (ESISO) and its impact on the High Temperature Events</li>
+    </ul>
+    <img class="activity-photo" src="/images/Activity_photo/2601_RWworkshop/2601_RW_workshop.jpeg" alt="Rossby waves workshop 2026" />
+    <p class="activity-photo-caption">Rossby Waves Workshop, Jan 2026</p>
+  </div>
+</details>
 
-  <a href="/activity/intl-conferences/japan-taiwan-reanalysis-2026/" class="activity-card">
-    <img src="/images/placeholder.jpg" alt="Japan-Taiwan Reanalysis" class="activity-image" />
-    <div class="activity-caption">Japan-Taiwan Reanalysis Workshop in Taiwan, Jan, 2026</div>
-  </a>
-</div>
+<details class="activity-meeting">
+  <summary>2026. Japan–Taiwan Joint Workshop on Reanalysis and Application (Taipei, Taiwan)</summary>
+  <div class="activity-body">
+    <ul>
+      <li><b>[Oral]</b> Performance evaluation of RRJ-ClimCORE: Precipitation over South Korea</li>
+    </ul>
+  </div>
+</details>
 
 ## 2025
 
-<div class="activity-grid">
-  <a href="/activity/intl-conferences/interbasin-2025/" class="activity-card">
-    <img src="/images/placeholder.jpg" alt="Interbasin workshop" class="activity-image" />
-    <div class="activity-caption">Interbasin Workshop in Japan, Dec, 2025</div>
-  </a>
+<details class="activity-meeting">
+  <summary>2025. Interbasin Interaction Workshop (Tokyo, Japan)</summary>
+  <div class="activity-body">
+    <ul>
+      <li><b>[Oral]</b> Influence of Mid-High-Latitude Teleconnections on East Asian Heatwaves during Intra-seasonal Timescales</li>
+    </ul>
+  </div>
+</details>
 
-  <a href="/activity/intl-conferences/a3-foresight-2025/" class="activity-card">
-    <img src="/images/placeholder.jpg" alt="A3 Foresight" class="activity-image" />
-    <div class="activity-caption">A3-Foresight Meeting in S. Korea, Nov, 2025</div>
-  </a>
+<details class="activity-meeting">
+  <summary>2025. A3 Foresight Program Joint Workshop (Jeju, Korea)</summary>
+  <div class="activity-body">
+    <ul>
+      <li><b>[Oral]</b> Arctic-Siberian Plain Warming and Its Role in East Asian Heat Waves: Mechanisms and CMIP6 Evaluation</li>
+    </ul>
+  </div>
+</details>
 
-  <a href="/activity/intl-conferences/baco25-2025-oral/" class="activity-card">
-    <img src="/images/placeholder.jpg" alt="BACO-25" class="activity-image" />
-    <div class="activity-caption">BACO-25 in S. Korea, Jul, 2025</div>
-  </a>
+<details class="activity-meeting">
+  <summary>2025. BACO-25 (Busan, Korea)</summary>
+  <div class="activity-body">
+    <ul>
+      <li><b>[Oral]</b> Arctic-Siberian Plain Warming and Its Role in East Asian Heat Waves: Mechanisms and CMIP6 Evaluation</li>
+      <li><b>[Oral]</b> Two faces of polar climate change and their influences on midlatitudes</li>
+    </ul>
+  </div>
+</details>
 
-  <a href="/activity/intl-conferences/midlatitude-workshop-2025-poster-1/" class="activity-card">
-    <img src="/images/placeholder.jpg" alt="Mid-latitude Workshop Poster 1" class="activity-image" />
-    <div class="activity-caption">Habitable Japan Int. Workshop in Japan, Jul, 2025</div>
-  </a>
-
-</div>
+<details class="activity-meeting">
+  <summary>2025. Mid-latitude Atmosphere-Ocean-Ecosystem Interactions Workshop (Fukuoka, Japan)</summary>
+  <div class="activity-body">
+    <ul>
+      <li><b>[Poster]</b> Performance Evaluation of CMIP6 Models on the Arctic-Siberian Plain Warming Affecting the East Asia Heat Waves</li>
+      <li><b>[Poster]</b> Performance Evaluation of CMIP6 Models on the Arctic-Siberian Plain Warming Affecting the East Asian Heat Waves</li>
+    </ul>
+  </div>
+</details>
 
 ## 2024
 
-<div class="activity-grid">
-  <a href="/activity/intl-conferences/agu-2024-poster-asp/" class="activity-card">
-    <img src="/images/placeholder.jpg" alt="AGU Fall Meeting 2024" class="activity-image" />
-    <div class="activity-caption">2024 AGU Fall Meeting in USA, Dec, 2024</div>
-  </a>
+<details class="activity-meeting">
+  <summary>2024. AGU (Washington D.C., U.S.)</summary>
+  <div class="activity-body">
+    <ul>
+      <li>
+        <b>[Poster]</b> Performance Evaluation of CMIP6 Models on the Arctic-Siberian Plain Warming Affecting the East Asian Heat Waves
+        <span class="activity-authors">Jeong-Hun Kim, Joowan Kim, Jiwoo Lee, Maeng-Ki Kim</span>
+      </li>
+      <li>
+        <b>[Poster]</b> Synergy effect of the synoptic and Quasi-bi-weekly time-scale (high and low frequency) atmospheric circulation pattern on the high PM2.5 concentration in South Korea
+        <span class="activity-authors">Seyeong Lee, Jeong-Hun Kim, Maeng-Ki Kim, Sang-Hyun Lee</span>
+      </li>
+    </ul>
+  </div>
+</details>
 
-  <a href="/activity/intl-conferences/aogs-2024-poster-pm10/" class="activity-card">
-    <img src="/images/placeholder.jpg" alt="AOGS 2024" class="activity-image" />
-    <div class="activity-caption">AOGS Annual Meeting in Korea, Jun, 2024</div>
-  </a>
+<details class="activity-meeting">
+  <summary>2024. AOGS (Pyeongchang, Korea)</summary>
+  <div class="activity-body">
+    <ul>
+      <li>
+        <b>[Poster]</b> Arctic/North Atlantic origin teleconnection causes Extreme PM10 Events in South Korea
+        <span class="activity-authors">Jeong-Hun Kim, Maeng-Ki Kim, Seong-Joong Kim, Joo-Hong Kim, Sang-Wook Yeh, Sang-Hyun Lee, Youngseok Lee</span>
+      </li>
+    </ul>
+  </div>
+</details>
 
-  <a href="/activity/intl-conferences/egu-2024-poster-iberia/" class="activity-card">
-    <img src="/images/placeholder.jpg" alt="EGU 2024" class="activity-image" />
-    <div class="activity-caption">EGU General Assembly in Austria, Apr, 2024</div>
-  </a>
-</div>
+<details class="activity-meeting">
+  <summary>2024. EGU (Vienna, Austria)</summary>
+  <div class="activity-body">
+    <ul>
+      <li>
+        <b>[Poster]</b> Understanding the 2022 Heat Wave Mechanism in the Iberian Peninsula
+        <span class="activity-authors">Jeong-Hun Kim, So-Hyun Nam, Maeng-Ki Kim</span>
+      </li>
+    </ul>
+  </div>
+</details>
 
 ## 2023
 
-<div class="activity-grid">
-  <a href="/activity/intl-conferences/agu-2023-poster-iberia/" class="activity-card">
-    <img src="/images/placeholder.jpg" alt="AGU 2023" class="activity-image" />
-    <div class="activity-caption">AGU Fall Meeting in USA, Dec, 2023</div>
-  </a>
+<details class="activity-meeting">
+  <summary>2023. AGU (San Francisco, U.S.)</summary>
+  <div class="activity-body">
+    <ul>
+      <li>
+        <b>[Poster]</b> Mechanism of the Extreme Heat Waves in the Iberian Peninsula in 2022
+        <span class="activity-authors">Jeong-Hun Kim, So-Hyun Nam, Maeng-Ki Kim</span>
+      </li>
+    </ul>
+  </div>
+</details>
 
-  <a href="/activity/intl-conferences/aogs-2023-oral-asp/" class="activity-card">
-    <img src="/images/placeholder.jpg" alt="AOGS 2023" class="activity-image" />
-    <div class="activity-caption">AOGS Annual Meeting in Singapore, Aug, 2023</div>
-  </a>
+<details class="activity-meeting">
+  <summary>2023. AOGS (Singapore)</summary>
+  <div class="activity-body">
+    <ul>
+      <li>
+        <b>[Oral]</b> The Arctic-Siberian Plain Warming causes the East Asian Heat Waves
+        <span class="activity-authors">Jeong-Hun Kim, Seong-Joong Kim, Joo-Hong Kim, Michiya Hayashi, Maeng-Ki Kim</span>
+      </li>
+    </ul>
+  </div>
+</details>
 
-  <a href="/activity/intl-conferences/egu-2023-oral-asp/" class="activity-card">
-    <img src="/images/placeholder.jpg" alt="EGU 2023" class="activity-image" />
-    <div class="activity-caption">EGU General Assembly Online, Apr, 2023</div>
-  </a>
-</div>
+<details class="activity-meeting">
+  <summary>2023. EGU (Vienna, Austria / Online)</summary>
+  <div class="activity-body">
+    <ul>
+      <li>
+        <b>[Oral]</b> The Arctic-Siberian Plain warming drives the heat waves in East Asia
+        <span class="activity-authors">Jeong-Hun Kim, Seong-Joong Kim, Joo-Hong Kim, Michiya Hayashi, Maeng-Ki Kim</span>
+      </li>
+    </ul>
+  </div>
+</details>
 
 ## 2022
 
-<div class="activity-grid">
-  <a href="/activity/intl-conferences/agu-2022-oral-asp/" class="activity-card">
-    <img src="/images/placeholder.jpg" alt="AGU 2022" class="activity-image" />
-    <div class="activity-caption">AGU Fall Meeting in USA, Dec, 2022</div>
-  </a>
-</div>
+<details class="activity-meeting">
+  <summary>2022. AGU (Chicago, U.S.)</summary>
+  <div class="activity-body">
+    <ul>
+      <li>
+        <b>[Oral]</b> Impact of Arctic-Siberian warming on East Asian heatwaves
+        <span class="activity-authors">Jeong-Hun Kim, Seong-Joong Kim, Joo-Hong Kim, Michiya Hayashi, Maeng-Ki Kim</span>
+      </li>
+    </ul>
+  </div>
+</details>
 
 ## 2021
 
-<div class="activity-grid">
-  <a href="/activity/intl-conferences/agu-2021-poster-naea-pm10/" class="activity-card">
-    <img src="/images/placeholder.jpg" alt="AGU 2021" class="activity-image" />
-    <div class="activity-caption">AGU Fall Meeting Online, Dec, 2021</div>
-  </a>
+<details class="activity-meeting">
+  <summary>2021. AGU (Online)</summary>
+  <div class="activity-body">
+    <ul>
+      <li>
+        <b>[Poster]</b> Teleconnection between North Atlantic and East Asia on Extremely High PM10 Cases in January in South Korea
+        <span class="activity-authors">Jeong-Hun Kim, Seong-Joong Kim, Daeok Youn, Maeng-Ki Kim, Joo-Hong Kim, Joowan Kim, El Noh</span>
+      </li>
+    </ul>
+  </div>
+</details>
 
-  <a href="/activity/intl-conferences/kopri-2021-poster-bks-pm10/" class="activity-card">
-    <img src="/images/placeholder.jpg" alt="KOPRI 2021" class="activity-image" />
-    <div class="activity-caption">KOPRI Symposium in Korea, Sep, 2021</div>
-  </a>
-</div>
+<details class="activity-meeting">
+  <summary>2021. KOPRI International Symposium (Incheon, Korea)</summary>
+  <div class="activity-body">
+    <ul>
+      <li>
+        <b>[Poster]</b> Possible Link Between Barents-Kara Sea Ice and PM10 concentration in South Korea during January
+        <span class="activity-authors">Jeong-Hun Kim, Maeng-Ki Kim, Chang-Hoi Ho, Rokjin J. Park, Minjoong J. Kim, Jaehyun Lim, Seong-Joong Kim, Chang-Keun Song</span>
+      </li>
+    </ul>
+  </div>
+</details>
 
 ## 2020
 
-<div class="activity-grid">
-  <a href="/activity/intl-conferences/agu-2020-poster-nae-summerhw/" class="activity-card">
-    <img src="/images/placeholder.jpg" alt="AGU 2020" class="activity-image" />
-    <div class="activity-caption">AGU Fall Meeting Online, Dec, 2020</div>
-  </a>
+<details class="activity-meeting">
+  <summary>2020. AGU (Online)</summary>
+  <div class="activity-body">
+    <ul>
+      <li>
+        <b>[Poster]</b> The North Atlantic-Eurasian Teleconnection associated with Summer Heatwaves in East Asia
+        <span class="activity-authors">Jeong-Hun Kim, Maeng-Ki Kim, Seong-Joong Kim, Joo-Hong Kim, Sang-Yoon Jun</span>
+      </li>
+    </ul>
+  </div>
+</details>
 
-  <a href="/activity/intl-conferences/aogs-2020-poster-asi-hw/" class="activity-card">
-    <img src="/images/placeholder.jpg" alt="AOGS 2020" class="activity-image" />
-    <div class="activity-caption">AOGS Annual Meeting (Canceled), Jul, 2020</div>
-  </a>
-</div>
+<details class="activity-meeting">
+  <summary>2020. AOGS (Canceled by COVID-19)</summary>
+  <div class="activity-body">
+    <ul>
+      <li>
+        <b>[Poster]</b> Relationship Between Arctic Sea Ice and Heatwaves in the Korean Peninsula
+        <span class="activity-authors">Jeong-Hun Kim, Maeng-Ki Kim, Seong-Joong Kim</span>
+      </li>
+    </ul>
+  </div>
+</details>
 
 ## 2019
 
-<div class="activity-grid">
-  <a href="/activity/intl-conferences/agu-2019-poster-asi-pm10/" class="activity-card">
-    <img src="/images/placeholder.jpg" alt="AGU 2019" class="activity-image" />
-    <div class="activity-caption">AGU Fall Meeting in USA, Dec, 2019</div>
-  </a>
+<details class="activity-meeting">
+  <summary>2019. AGU (San Francisco, U.S.)</summary>
+  <div class="activity-body">
+    <ul>
+      <li>
+        <b>[Poster]</b> Heatwave mechanism in South Korea and its performance evaluation in CMIP5 models
+        <span class="activity-authors">Ji-Seon Oh, Maeng-Ki Kim, Dae-Geun Yu, Jeong Sang, Jeong-Hun Kim</span>
+      </li>
+      <li>
+        <b>[Poster]</b> Relationship between Arctic Sea Ice amount and PM10 Concentration in South Korea on January
+        <span class="activity-authors">Jeong-Hun Kim, Maeng-Ki Kim, Chang-Hoi Ho, Rokjin J. Park, Minjoong J. Kim, Cheol-Soo Lim, Seong-Joong Kim</span>
+      </li>
+    </ul>
+  </div>
+</details>
 
-  <a href="/activity/intl-conferences/egu-2019-poster-india-heating/" class="activity-card">
-    <img src="/images/placeholder.jpg" alt="EGU 2019" class="activity-image" />
-    <div class="activity-caption">EGU General Assembly in Austria, Apr, 2019</div>
-  </a>
-</div>
+<details class="activity-meeting">
+  <summary>2019. EGU (Vienna, Austria)</summary>
+  <div class="activity-body">
+    <ul>
+      <li>
+        <b>[Poster]</b> Possible impact of the diabatic heating over the Indian subcontinent on heat waves in South Korea
+        <span class="activity-authors">Jeong-Hun Kim, Maeng-Ki Kim, Ji-Seon Oh, Cheol-Kyu Park, Seung-Ki Min, Kyung-On Boo</span>
+      </li>
+    </ul>
+  </div>
+</details>
 
 ## 2018
 
-<div class="activity-grid">
-  <a href="/activity/intl-conferences/agu-2018-poster-nh-circ-pm10/" class="activity-card">
-    <img src="/images/placeholder.jpg" alt="AGU 2018" class="activity-image" />
-    <div class="activity-caption">AGU Fall Meeting in USA, Dec, 2018</div>
-  </a>
+<details class="activity-meeting">
+  <summary>2018. AGU (Washington D.C., U.S.)</summary>
+  <div class="activity-body">
+    <ul>
+      <li>
+        <b>[Poster]</b> Strong impact of Northern Hemisphere Atmospheric Circulation on Interannual Variability of PM10 Concentration in South Korea during winter season
+        <span class="activity-authors">Jeong-Hun Kim, Maeng-Ki Kim, Chang-Hoi Ho, Rokjin J. Park, Minjoong J. Kim, Cheol-Soo Lim</span>
+      </li>
+    </ul>
+  </div>
+</details>
 
-  <a href="/activity/intl-conferences/egu-2018-poster-tp-sensible-heat/" class="activity-card">
-    <img src="/images/placeholder.jpg" alt="EGU 2018" class="activity-image" />
-    <div class="activity-caption">EGU General Assembly in Austria, Apr, 2018</div>
-  </a>
-</div>
+<details class="activity-meeting">
+  <summary>2018. EGU (Vienna, Austria)</summary>
+  <div class="activity-body">
+    <ul>
+      <li>
+        <b>[Poster]</b> Impact of the Tibetan Plateau sensible heat on heat waves in South Korea
+        <span class="activity-authors">Maeng-Ki Kim, Ji-Seon Oh, Cheol-Kyu Park, Seung-Ki Min, Kyung-On Boo, Jeong-Hun Kim</span>
+      </li>
+    </ul>
+  </div>
+</details>
