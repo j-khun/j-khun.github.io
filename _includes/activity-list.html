@@ -1,0 +1,40 @@
+{% comment %}
+  Renders activity meetings from _data/activity.yml
+  Auto-bolds "Jeong-Hun Kim" / "Jeong-Hun Kim*" in author strings.
+{% endcomment %}
+
+{% for group in site.data.activity %}
+  {% assign visible_meetings = group.meetings | where_exp: "m", "m.hidden != true" %}
+  {% if visible_meetings.size > 0 %}
+## {{ group.year }}
+
+{% for meeting in visible_meetings %}
+<details class="activity-meeting">
+  <summary>{{ meeting.title }}</summary>
+  <div class="activity-body">
+    {% if meeting.talks %}
+    <ul>
+      {% for talk in meeting.talks %}
+      <li>
+        <b>[{{ talk.type }}]</b> {{ talk.title }}
+        {% if talk.authors %}
+        {% assign authors_fmt = talk.authors
+          | replace: "Jeong-Hun Kim*", "§ME_STAR§"
+          | replace: "Jeong-Hun Kim", "§ME§"
+          | replace: "§ME_STAR§", "<b>Jeong-Hun Kim*</b>"
+          | replace: "§ME§", "<b>Jeong-Hun Kim</b>" %}
+        <span class="activity-authors">{{ authors_fmt | raw }}</span>
+        {% endif %}
+      </li>
+      {% endfor %}
+    </ul>
+    {% endif %}
+    {% if meeting.photo %}
+    <img class="activity-photo" src="{{ meeting.photo }}" alt="{{ meeting.title }}" />
+    {% if meeting.photo_caption %}<p class="activity-photo-caption">{{ meeting.photo_caption }}</p>{% endif %}
+    {% endif %}
+  </div>
+</details>
+{% endfor %}
+  {% endif %}
+{% endfor %}

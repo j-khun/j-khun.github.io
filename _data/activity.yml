@@ -1,0 +1,222 @@
+# ============================================================
+# Activity 목록 (여기만 수정하면 됩니다)
+# ------------------------------------------------------------
+# 새 미팅 예시:
+#
+# - year: 2026
+#   meetings:
+#     - title: "2026. AGU (San Francisco, U.S.)"
+#       talks:
+#         - type: Oral          # Oral 또는 Poster
+#           title: "발표 제목"
+#           authors: "Jeong-Hun Kim*, Yu Kosaka, Joowan Kim"
+#       photo: /images/Activity_photo/example.jpeg   # 선택
+#       photo_caption: "Short caption"               # 선택
+#       hidden: true                                 # 선택: true면 페이지에 안 나옴
+#
+# 규칙:
+# - 발표자 이름 뒤에 * 붙이기
+# - 내 이름은 그냥 Jeong-Hun Kim 이라고 쓰면 자동으로 볼드 처리됨
+# ============================================================
+
+- year: 2026
+  meetings:
+    - title: "2026. AGU (San Francisco, U.S.)"
+      hidden: true
+      talks:
+        - type: Oral
+          title: "Compound Hot-Dry Extremes over Eurasia Modulated by the Eurasian Summertime Intraseasonal Oscillation (ESISO)"
+          authors: "Jeong-Hun Kim*, Yu Kosaka, Joowan Kim"
+
+    - title: "2026. A3-foresight (Gwangzhou, China)"
+      hidden: true
+      talks:
+        - type: Oral
+          title: "Compound Hot-Dry Extremes over Eurasia Modulated by the Eurasian Summertime Intraseasonal Oscillation (ESISO)"
+          authors: "Jeong-Hun Kim*, Yu Kosaka, Joowan Kim"
+
+    - title: "2026. ACM (Gyeongju, S. Korea)"
+      hidden: true
+      talks:
+        - type: Oral
+          title: "Compound Hot-Dry Extremes over Eurasia Modulated by the Eurasian Summertime Intraseasonal Oscillation (ESISO)"
+          authors: "Jeong-Hun Kim*, Yu Kosaka, Joowan Kim"
+
+    - title: "2026. AOGS (Fukuoka, Japan)"
+      talks:
+        - type: Oral
+          title: "From the Arctic and High Latitudes to East Asia: Emerging Teleconnections Driving Extreme Heatwaves"
+          authors: "Jeong-Hun Kim*, Maeng-Ki Kim, Seong-Joong Kim, Joo-Hong Kim, Joowan Kim, Yu Kosaka, Jiwoo Lee, Michiya Hayashi, So-Hyun Nam"
+        - type: Poster
+          title: "Evaluation of Precipitation and Extreme Rainfall in the RRJ-ClimCORE Regional Reanalysis over South Korea"
+          authors: "Jeong-Hun Kim*, Hisashi Nakamura, Takafumi Miyasaka, Ken-ichi Kuma, Joowan Kim"
+        - type: Poster
+          title: "Regional Amplification of the Silk Road Pattern: Roles of the Iranian Plateau and the Indian Summer Monsoon"
+          authors: "Dahuin Chong*, El Noh, Joowan Kim, Jeong-Hun Kim, Eun-Hyuk Baek"
+
+    - title: "2026. Arctic- and Tropical-Midlatitude Linkage and Extremes Workshop (Taipei, Taiwan)"
+      talks:
+        - type: Oral
+          title: "From the Arctic and High Latitudes to East Asia: Emerging Teleconnections Driving Extreme Heatwaves"
+          authors: "Jeong-Hun Kim*, Maeng-Ki Kim, Seong-Joong Kim, Joo-Hong Kim, Joowan Kim, Yu Kosaka, Jiwoo Lee, Michiya Hayashi, So-Hyun Nam"
+      photo: /images/Activity_photo/2604_AMLworkshop/AML_workshop_group_picture.jpeg
+      photo_caption: "AML Workshop, Apr 2026"
+
+    - title: "2026. CMIP Community Workshop (Kyoto, Japan)"
+      talks:
+        - type: Poster
+          title: "Arctic-Siberian Plain Warming and Its Influence on East Asian Heatwaves: Mechanisms and CMIP6 Evaluation"
+          authors: "Jeong-Hun Kim*, Maeng-Ki Kim, Seong-Joong Kim, Joo-Hong Kim, Joowan Kim, Michiya Hayashi, Jiwoo Lee, Yu Kosaka"
+
+    - title: "2026. Workshop on the Dynamics of Rossby Waves, Compound Extremes and Their Impacts (Amsterdam, Netherlands)"
+      talks:
+        - type: Poster
+          title: "Eurasian Summertime Intra-seasonal Oscillation (ESISO) and its impact on the High Temperature Events"
+          authors: "Jeong-Hun Kim*, Yu Kosaka"
+      photo: /images/Activity_photo/2601_RWworkshop/2601_RW_workshop.jpeg
+      photo_caption: "Rossby Waves Workshop, Jan 2026"
+
+    - title: "2026. Japan–Taiwan Joint Workshop on Reanalysis and Application (Taipei, Taiwan)"
+      talks:
+        - type: Oral
+          title: "Performance evaluation of RRJ-ClimCORE: Precipitation over South Korea"
+          authors: "Jeong-Hun Kim*, Hisashi Nakamura, Takafumi Miyasaka, Ken-ichi Kuma, Joowan Kim"
+
+- year: 2025
+  meetings:
+    - title: "2025. Interbasin Interaction Workshop (Tokyo, Japan)"
+      talks:
+        - type: Oral
+          title: "Influence of Mid-High-Latitude Teleconnections on East Asian Heatwaves during Intra-seasonal Timescales"
+          authors: "Jeong-Hun Kim*"
+
+    - title: "2025. A3 Foresight Program Joint Workshop (Jeju, Korea)"
+      talks:
+        - type: Oral
+          title: "Arctic-Siberian Plain Warming and Its Role in East Asian Heat Waves: Mechanisms and CMIP6 Evaluation"
+          authors: "Jeong-Hun Kim*"
+
+    - title: "2025. BACO-25 (Busan, Korea)"
+      talks:
+        - type: Oral
+          title: "Arctic-Siberian Plain Warming and Its Role in East Asian Heat Waves: Mechanisms and CMIP6 Evaluation"
+          authors: "Jeong-Hun Kim*"
+        - type: Oral
+          title: "Two faces of polar climate change and their influences on midlatitudes"
+          authors: "Seong-Joon Kim*, ... & Jeong-Hun Kim"
+
+    - title: "2025. Mid-latitude Atmosphere-Ocean-Ecosystem Interactions Workshop (Fukuoka, Japan)"
+      talks:
+        - type: Poster
+          title: "Performance Evaluation of CMIP6 Models on the Arctic-Siberian Plain Warming Affecting the East Asia Heat Waves"
+          authors: "Jeong-Hun Kim*"
+
+- year: 2024
+  meetings:
+    - title: "2024. AGU (Washington D.C., U.S.)"
+      talks:
+        - type: Poster
+          title: "Performance Evaluation of CMIP6 Models on the Arctic-Siberian Plain Warming Affecting the East Asian Heat Waves"
+          authors: "Jeong-Hun Kim*, Joowan Kim, Jiwoo Lee, Maeng-Ki Kim"
+        - type: Poster
+          title: "Synergy effect of the synoptic and Quasi-bi-weekly time-scale (high and low frequency) atmospheric circulation pattern on the high PM2.5 concentration in South Korea"
+          authors: "Seyeong Lee*, Jeong-Hun Kim, Maeng-Ki Kim, Sang-Hyun Lee"
+
+    - title: "2024. AOGS (Pyeongchang, Korea)"
+      talks:
+        - type: Poster
+          title: "Arctic/North Atlantic origin teleconnection causes Extreme PM10 Events in South Korea"
+          authors: "Jeong-Hun Kim*, Maeng-Ki Kim, Seong-Joong Kim, Joo-Hong Kim, Sang-Wook Yeh, Sang-Hyun Lee, Youngseok Lee"
+
+    - title: "2024. EGU (Vienna, Austria)"
+      talks:
+        - type: Poster
+          title: "Understanding the 2022 Heat Wave Mechanism in the Iberian Peninsula"
+          authors: "Jeong-Hun Kim*, So-Hyun Nam, Maeng-Ki Kim"
+
+- year: 2023
+  meetings:
+    - title: "2023. AGU (San Francisco, U.S.)"
+      talks:
+        - type: Poster
+          title: "Mechanism of the Extreme Heat Waves in the Iberian Peninsula in 2022"
+          authors: "Jeong-Hun Kim*, So-Hyun Nam, Maeng-Ki Kim"
+
+    - title: "2023. AOGS (Singapore)"
+      talks:
+        - type: Oral
+          title: "The Arctic-Siberian Plain Warming causes the East Asian Heat Waves"
+          authors: "Jeong-Hun Kim*, Seong-Joong Kim, Joo-Hong Kim, Michiya Hayashi, Maeng-Ki Kim"
+
+    - title: "2023. EGU (Vienna, Austria / Online)"
+      talks:
+        - type: Oral
+          title: "The Arctic-Siberian Plain warming drives the heat waves in East Asia"
+          authors: "Jeong-Hun Kim*, Seong-Joong Kim, Joo-Hong Kim, Michiya Hayashi, Maeng-Ki Kim"
+
+- year: 2022
+  meetings:
+    - title: "2022. AGU (Chicago, U.S.)"
+      talks:
+        - type: Oral
+          title: "Impact of Arctic-Siberian warming on East Asian heatwaves"
+          authors: "Jeong-Hun Kim*, Seong-Joong Kim, Joo-Hong Kim, Michiya Hayashi, Maeng-Ki Kim"
+
+- year: 2021
+  meetings:
+    - title: "2021. AGU (Online)"
+      talks:
+        - type: Poster
+          title: "Teleconnection between North Atlantic and East Asia on Extremely High PM10 Cases in January in South Korea"
+          authors: "Jeong-Hun Kim*, Seong-Joong Kim, Daeok Youn, Maeng-Ki Kim, Joo-Hong Kim, Joowan Kim, El Noh"
+
+    - title: "2021. KOPRI International Symposium (Incheon, Korea)"
+      talks:
+        - type: Poster
+          title: "Possible Link Between Barents-Kara Sea Ice and PM10 concentration in South Korea during January"
+          authors: "Jeong-Hun Kim*, Maeng-Ki Kim, Chang-Hoi Ho, Rokjin J. Park, Minjoong J. Kim, Jaehyun Lim, Seong-Joong Kim, Chang-Keun Song"
+
+- year: 2020
+  meetings:
+    - title: "2020. AGU (Online)"
+      talks:
+        - type: Poster
+          title: "The North Atlantic-Eurasian Teleconnection associated with Summer Heatwaves in East Asia"
+          authors: "Jeong-Hun Kim*, Maeng-Ki Kim, Seong-Joong Kim, Joo-Hong Kim, Sang-Yoon Jun"
+
+    - title: "2020. AOGS (Canceled by COVID-19)"
+      talks:
+        - type: Poster
+          title: "Relationship Between Arctic Sea Ice and Heatwaves in the Korean Peninsula"
+          authors: "Jeong-Hun Kim*, Maeng-Ki Kim, Seong-Joong Kim"
+
+- year: 2019
+  meetings:
+    - title: "2019. AGU (San Francisco, U.S.)"
+      talks:
+        - type: Poster
+          title: "Heatwave mechanism in South Korea and its performance evaluation in CMIP5 models"
+          authors: "Ji-Seon Oh*, Maeng-Ki Kim, Dae-Geun Yu, Jeong Sang, Jeong-Hun Kim"
+        - type: Poster
+          title: "Relationship between Arctic Sea Ice amount and PM10 Concentration in South Korea on January"
+          authors: "Jeong-Hun Kim*, Maeng-Ki Kim, Chang-Hoi Ho, Rokjin J. Park, Minjoong J. Kim, Cheol-Soo Lim, Seong-Joong Kim"
+
+    - title: "2019. EGU (Vienna, Austria)"
+      talks:
+        - type: Poster
+          title: "Possible impact of the diabatic heating over the Indian subcontinent on heat waves in South Korea"
+          authors: "Jeong-Hun Kim*, Maeng-Ki Kim, Ji-Seon Oh, Cheol-Kyu Park, Seung-Ki Min, Kyung-On Boo"
+
+- year: 2018
+  meetings:
+    - title: "2018. AGU (Washington D.C., U.S.)"
+      talks:
+        - type: Poster
+          title: "Strong impact of Northern Hemisphere Atmospheric Circulation on Interannual Variability of PM10 Concentration in South Korea during winter season"
+          authors: "Jeong-Hun Kim*, Maeng-Ki Kim, Chang-Hoi Ho, Rokjin J. Park, Minjoong J. Kim, Cheol-Soo Lim"
+
+    - title: "2018. EGU (Vienna, Austria)"
+      talks:
+        - type: Poster
+          title: "Impact of the Tibetan Plateau sensible heat on heat waves in South Korea"
+          authors: "Maeng-Ki Kim*, Ji-Seon Oh, Cheol-Kyu Park, Seung-Ki Min, Kyung-On Boo, Jeong-Hun Kim"
