@@ -6,6 +6,17 @@ author_profile: true
 ---
 
 <style>
+  /* Year headings (#### → rendered as h4; enlarge on this page) */
+  .page__content h4,
+  .archive__content h4,
+  article h4 {
+    font-size: 1.45em;
+    font-weight: 700;
+    margin-top: 1.6em;
+    margin-bottom: 0.55em;
+    color: #222;
+  }
+
   .publications {
     margin: 0 0 1.75em;
     padding-left: 0;
@@ -66,7 +77,7 @@ author_profile: true
 
 ## Peer-reviewed
 
-#### 2026
+### 2026
 <ul class="publications">
   <li>
     <span class="pub-title"><span class="pub-num">[11]</span> Eurasian Summertime Intraseasonal Oscillation and its impact on compound hot-dry extremes</span>
@@ -88,7 +99,7 @@ author_profile: true
   </li>
 </ul>
 
-#### 2025
+### 2025
 <ul class="publications">
   <li>
     <span class="pub-title"><span class="pub-num">[8]</span> Synergistic effects of synoptic and quasi-biweekly timescale atmospheric circulation patterns on PM2.5 concentration in South Korea</span>
@@ -98,7 +109,7 @@ author_profile: true
   </li>
 </ul>
 
-#### 2024
+### 2024
 <ul class="publications">
   <li>
     <span class="pub-title"><span class="pub-num">[7]</span> The 2022 record-high heat waves over southwestern Europe and their underlying mechanism</span>
@@ -120,7 +131,7 @@ author_profile: true
   </li>
 </ul>
 
-#### 2022
+### 2022
 <ul class="publications">
   <li>
     <span class="pub-title"><span class="pub-num">[4]</span> East Asian heat waves driven by Arctic-Siberian warming</span>
@@ -130,7 +141,7 @@ author_profile: true
   </li>
 </ul>
 
-#### 2021
+### 2021
 <ul class="publications">
   <li>
     <span class="pub-title"><span class="pub-num">[3]</span> Impact of North Atlantic-East Asian teleconnections on extremely high January PM10 cases in Korea</span>
@@ -140,7 +151,7 @@ author_profile: true
   </li>
 </ul>
 
-#### 2019
+### 2019
 <ul class="publications">
   <li>
     <span class="pub-title"><span class="pub-num">[2]</span> Possible link between arctic sea ice and January PM10 concentrations in South Korea</span>
@@ -160,7 +171,7 @@ author_profile: true
 
 ## Peer-reviewed, in Korean
 
-#### 2025
+### 2025
 <ul class="publications">
   <li>
     <span class="pub-title"><span class="pub-num">[8]</span> Analysis of abrupt changes in the Arctic water budget as drivers of wintertime Arctic amplification</span>
@@ -170,7 +181,7 @@ author_profile: true
   </li>
 </ul>
 
-#### 2024
+### 2024
 <ul class="publications">
   <li>
     <span class="pub-title"><span class="pub-num">[7]</span> Synoptic Patterns Associated with Regional Differences in Long-term Episodes of Extremely High PM2.5 Concentrations: A Focus on the Central Region of South Korea</span>
@@ -180,7 +191,7 @@ author_profile: true
   </li>
 </ul>
 
-#### 2023
+### 2023
 <ul class="publications">
   <li>
     <span class="pub-title"><span class="pub-num">[6]</span> Contribution of Teleconnection Indices to the Interannual Variability of Winter Temperature and Precipitation in East Asia</span>
@@ -190,7 +201,7 @@ author_profile: true
   </li>
 </ul>
 
-#### 2022
+### 2022
 <ul class="publications">
   <li>
     <span class="pub-title"><span class="pub-num">[5]</span> Causes of January Mean Temperature Change Before and After Regime Shift in Korea</span>
@@ -200,7 +211,7 @@ author_profile: true
   </li>
 </ul>
 
-#### 2021
+### 2021
 <ul class="publications">
   <li>
     <span class="pub-title"><span class="pub-num">[4]</span> Review on the impact of Arctic Amplification on winter cold surges over East Asia</span>
@@ -222,7 +233,7 @@ author_profile: true
   </li>
 </ul>
 
-#### 2020
+### 2020
 <ul class="publications">
   <li>
     <span class="pub-title"><span class="pub-num">[1]</span> Regime Shift of Cold Winter Temperature in Korea</span>
