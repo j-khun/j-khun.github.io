@@ -67,7 +67,7 @@ author_profile: true
 <ul class="publications">
   <li>
     <span class="pub-title">European Heatwaves Aggravated by Recent Summer Arctic Changes</span>
-    <span class="pub-meta">Noh et al. (in revision)</span> <span class="pub-link"><a href="https://doi.org/10.21203/rs.3.rs-9416442/v1">Link</a></span>
+    <span class="pub-meta">Noh et al. (in revision) <span class="pub-link"><a href="https://doi.org/10.21203/rs.3.rs-9416442/v1">Link</a></span></span>
   </li>
   <li>
     <span class="pub-title">Regional Amplification of the Silk Road Pattern: Roles of the Iranian Plateau and the Asian Summer Monsoon</span>
