@@ -6,10 +6,10 @@ author_profile: true
 ---
 
 <style>
-  /* Year headings (#### → rendered as h4; enlarge on this page) */
-  .page__content h4,
-  .archive__content h4,
-  article h4 {
+  /* Year headings */
+  .page__content h3,
+  .archive__content h3,
+  article h3 {
     font-size: 1.45em;
     font-weight: 700;
     margin-top: 1.6em;
