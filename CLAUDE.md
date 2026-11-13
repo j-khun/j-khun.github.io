@@ -13,7 +13,7 @@ The owner usually writes requests in Korean; reply in Korean.
 | Home `/` | `_pages/about.md` | Bio, contact, research interests, badges |
 | CV `/cv/` | `_pages/cv.md` | Links the PDF in `assets/` (currently `CV_JeongHun_Kim_250729.pdf`). When a new CV PDF is added, update this link. |
 | Research `/research/` | `_pages/research.md` | 2-column HTML grid; figures in `images/Research_fig/` |
-| Publications `/publications/` | `_pages/publications.md` | Hand-written HTML lists (see below). `_publications/` collection and `_pages/publications.html` are template leftovers — do not edit them. |
+| Publications `/publications/` | `_pages/publications.md` | Hand-written HTML lists (see below). The `_publications/` collection is a template leftover — do not edit it. |
 | Activity `/activity/` | `_data/activity.yml` | Data-driven; the page `_pages/activity.md` renders it. Format is documented at the top of the YAML. Photos go in `images/Activity_photo/<YYMM_name>/`. |
 | Links `/links/` | `_pages/links.md` | |
 | Header menu | `_data/navigation.yml` | |
@@ -51,7 +51,15 @@ When a paper moves from "in revision" to published, remove it from the in-revisi
 
 ## Local preview
 
-System Ruby is 2.6 and there is no Jekyll/Docker installed, so local preview is
-not set up yet. Options: install Ruby 3 via Homebrew (`brew install ruby`) then
-`bundle install && bundle exec jekyll serve -l -H localhost` (http://localhost:4000),
-or use the Docker setup (`docker compose up`).
+`./serve.sh` → http://localhost:4000 (live reload). It uses Homebrew
+`ruby@3.3` (`/opt/homebrew/opt/ruby@3.3/bin`), installs gems into
+`vendor/bundle` on first run, and sets `CPLUS_INCLUDE_PATH` so `eventmachine`
+compiles. Don't use system Ruby 2.6 or Homebrew's default Ruby 4.x — the
+github-pages gem set fails on both.
+
+The desktop app's preview launcher can't run it (no access to ~/Desktop), so
+start `./serve.sh` from Bash in the background, then open the URL in the browser pane.
+
+Files that live in the repo but must not be published (CLAUDE.md, serve.sh,
+quickpush.sh, scripts, notebooks, `*.org` backups…) are in `exclude:` in
+`_config.yml` — add new repo-only files there too.

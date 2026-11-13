@@ -203,6 +203,20 @@ exclude:
   - README
   - tmp
   - vendor
+  # repo-only files (not part of the website)
+  - CLAUDE.md
+  - CONTRIBUTING.md
+  - README.md
+  - serve.sh
+  - quickpush.sh
+  - docker-compose.yaml
+  - _config_docker.yml
+  - "*.org"
+  - talkmap.py
+  - talkmap.ipynb
+  - talkmap_out.ipynb
+  - scripts
+  - markdown_generator
 keep_files:
   - .git
   - .svn
