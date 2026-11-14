@@ -33,6 +33,10 @@
     <img class="activity-photo" src="{{ meeting.photo }}" alt="{{ meeting.title }}" />
     {% if meeting.photo_caption %}<p class="activity-photo-caption">{{ meeting.photo_caption }}</p>{% endif %}
     {% endif %}
+    {% for p in meeting.photos %}
+    <img class="activity-photo" src="{{ p.src }}" alt="{{ p.caption | default: meeting.title }}" />
+    {% if p.caption %}<p class="activity-photo-caption">{{ p.caption }}</p>{% endif %}
+    {% endfor %}
   </div>
 </details>
 {% endfor %}
