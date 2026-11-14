@@ -35,12 +35,25 @@
           title: "Compound Hot-Dry Extremes over Eurasia Modulated by the Eurasian Summertime Intraseasonal Oscillation (ESISO)"
           authors: "Jeong-Hun Kim*, Yu Kosaka, Joowan Kim"
 
-    - title: "2026. ACM (Gyeongju, S. Korea)"
-      hidden: true
+    - title: "2026. The 1st Regional Reanalysis Asia-Pacific Workshop (RR-APAC 2026; Taipei, Taiwan)"
+      talks:
+        - type: Oral
+          title: "Performance evaluation of RRJ-ClimCORE precipitation over South Korea"
+          authors: "Jeong-Hun Kim*, Hisashi Nakamura, Takafumi Miyasaka, Ken-ichi Kuma, Joowan Kim"
+
+    - title: "2026. Asian Conference on Meteorology (ACM; Gyeongju, Korea)"
       talks:
         - type: Oral
           title: "Compound Hot-Dry Extremes over Eurasia Modulated by the Eurasian Summertime Intraseasonal Oscillation (ESISO)"
           authors: "Jeong-Hun Kim*, Yu Kosaka, Joowan Kim"
+        - type: Oral
+          title: "European Heatwave Intensified by Recent Arctic and Atlantic Changes"
+          authors: "Joowan Kim*, El Noh, Yu Kosaka, Sang-Wook Yeh, Seok-Woo Son, Baek-Min Kim, Dim Coumou, Kai Kornhuber, Sang-Yoon Jun, Woosok Moon, Masato Mori, Jeong-Hun Kim"
+        - type: Oral
+          title: "Regional Amplification Mechanism of the Silk Road Pattern: Roles of the Iranian Plateau and the Indian Summer Monsoon"
+          authors: "Dahuin Chong*, Jeong-Hun Kim, El Noh, Joowan Kim"
+      photo: /images/Activity_photo/2610_ACM/ACM2026_group_picture.jpg
+      photo_caption: "ACM 2026, Oct 2026"
 
     - title: "2026. AOGS (Fukuoka, Japan)"
       talks:
