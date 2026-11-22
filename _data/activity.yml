@@ -33,11 +33,10 @@
           title: "Compound Hot-Dry Extremes over Eurasia Modulated by the Eurasian Summertime Intraseasonal Oscillation (ESISO)"
           authors: "Jeong-Hun Kim*, Yu Kosaka, Joowan Kim"
 
-    - title: "2026. A3-foresight (Gwangzhou, China)"
-      hidden: true
+    - title: "2026. A3 Foresight Program Joint Workshop (Guangzhou, China)"
       talks:
         - type: Oral
-          title: "Compound Hot-Dry Extremes over Eurasia Modulated by the Eurasian Summertime Intraseasonal Oscillation (ESISO)"
+          title: "Impact of Eurasian Summertime Intraseasonal Oscillation on Compound Hot-Dry Extremes over Eurasia"
           authors: "Jeong-Hun Kim*, Yu Kosaka, Joowan Kim"
 
     - title: "2026. The 1st Regional Reanalysis Asia-Pacific Workshop, RR-APAC (Taipei, Taiwan)"
@@ -119,6 +118,8 @@
         - type: Oral
           title: "Arctic-Siberian Plain Warming and Its Role in East Asian Heat Waves: Mechanisms and CMIP6 Evaluation"
           authors: "Jeong-Hun Kim*"
+      photo: /images/Activity_photo/2511_A3/A3_2025_group_picture.jpg
+      photo_caption: "4th Joint Workshop on the A3 Foresight Program, Nov 2025"
 
     - title: "2025. BACO-25 (Busan, Korea)"
       talks:
