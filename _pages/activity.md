@@ -40,8 +40,7 @@ author_profile: true
   }
   .activity-photos-grid .activity-photo {
     width: 100%;
-    aspect-ratio: 3 / 4;
-    object-fit: cover;
+    height: auto;
     margin: 0 0 0.25em;
   }
   @media (max-width: 480px) {
