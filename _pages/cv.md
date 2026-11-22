@@ -32,7 +32,7 @@ redirect_from:
   * _Host: Prof. Yu Kosaka_
 
 * **2024.11 - 2024.12:** Visiting Researcher
-  * _Department of Geography, University of California, Santa Barbara (UCSB), U.S._
+  * _Earth Research Institute (ERI), University of California, Santa Barbara (UCSB), U.S._
   * _Host: Prof. Qinghua Ding_
 
 ## Education📚
