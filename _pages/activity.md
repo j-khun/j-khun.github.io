@@ -49,6 +49,13 @@ author_profile: true
   @media (max-width: 480px) {
     .activity-photos { grid-template-columns: 1fr; }
   }
+  .activity-photo-caption { font-family: inherit; }
+  /* 다크모드 글자색 */
+  html[data-theme="dark"] .activity-meeting { border-bottom-color: rgba(255,255,255,0.12); }
+  html[data-theme="dark"] .activity-meeting > summary::before { color: #aaa; }
+  html[data-theme="dark"] .activity-authors { color: #c4c4c4; }
+  html[data-theme="dark"] .activity-photo-caption { color: #b5b5b5; }
+  html[data-theme="dark"] .activity-photo { background: #2e3138; }
 </style>
 
 # International Conference & Workshop Presentations

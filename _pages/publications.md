@@ -51,6 +51,13 @@ author_profile: true
     content: "· ";
     color: #888;
   }
+  /* 다크모드 글자색 */
+  html[data-theme="dark"] .page__content h3,
+  html[data-theme="dark"] .archive__content h3,
+  html[data-theme="dark"] article h3 { color: #eaeaea; }
+  html[data-theme="dark"] .publications .pub-meta { color: #cfcfcf; }
+  html[data-theme="dark"] .publications .pub-venue { color: #b5b5b5; }
+  html[data-theme="dark"] .publications .pub-link::before { color: #999; }
 </style>
 
 <div class="wordwrap">
