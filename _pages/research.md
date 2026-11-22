@@ -85,7 +85,8 @@ author_profile: true
 
 <p class="rs-intro">
   I study how <b>large-scale atmospheric circulation links remote climate changes</b>, especially in the Arctic and high latitudes,
-  to <b>regional extremes</b> such as heatwaves, compound extremes and severe air pollution in East Asia and Europe.
+  to <b>regional extremes</b> such as heatwaves, compound extremes and severe air pollution in East Asia and Europe,
+  and what drives the recent change in <b>Arctic amplification</b>.
 </p>
 <div class="rs-tags">
   <span class="rs-tag">Heatwaves</span>
@@ -101,7 +102,7 @@ author_profile: true
     <img src="/images/Research_fig/Schematic_diagram_ASPt.png" alt="ASP teleconnection pattern and East Asian heatwaves" />
   </div>
   <div class="rs-text">
-    <h2>Heatwave Mechanisms by Large-scale Teleconnection Patterns</h2>
+    <h2>Heatwave Mechanisms by Large-scale Teleconnection Patterns<span class="rs-badge">ONGOING</span></h2>
     <p>
       How do remote circulation patterns, such as the Arctic-Siberian Plain (ASP) pattern, the circumglobal teleconnection (CGT)
       and the Eurasian summertime intraseasonal oscillation (ESISO), set up extreme heat and compound extremes?
@@ -128,7 +129,7 @@ author_profile: true
     <img src="/images/Research_fig/Schematic_diagram_MTA.png" alt="Arctic moisture budget change" />
   </div>
   <div class="rs-text">
-    <h2>Mechanism of the Arctic Amplification Change</h2>
+    <h2>Mechanism of the Arctic Amplification Change<span class="rs-badge">ONGOING</span></h2>
     <p>
       Why has wintertime Arctic warming accelerated? I examine abrupt changes in the Arctic atmospheric water budget,
       including poleward moisture transport, evaporation and precipitation, as drivers of the recent shift in Arctic amplification.

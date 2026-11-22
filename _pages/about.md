@@ -81,7 +81,8 @@ redirect_from:
   Postdoctoral Researcher at the <b>Research Center for Advanced Science and Technology (RCAST), The University of Tokyo</b>,
   working with Prof. Yu Kosaka.<br>
   I study the <b>large-scale atmospheric circulation behind regional climate extremes</b>: how teleconnections from the Arctic
-  and high latitudes shape heatwaves, compound extremes and severe air pollution over East Asia and Europe.<br>
+  and high latitudes shape heatwaves, compound extremes and severe air pollution over East Asia and Europe,
+  and what drives the recent change in <b>Arctic amplification</b>.<br>
   Ph.D. in Atmospheric Sciences, Kongju National University (2023).
 </p>
 
