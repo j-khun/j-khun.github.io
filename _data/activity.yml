@@ -97,8 +97,11 @@
         - type: Poster
           title: "Arctic-Siberian Plain Warming and Its Influence on East Asian Heatwaves: Mechanisms and CMIP6 Evaluation"
           authors: "Jeong-Hun Kim*, Maeng-Ki Kim, Seong-Joong Kim, Joo-Hong Kim, Joowan Kim, Michiya Hayashi, Jiwoo Lee, Yu Kosaka"
-      photo: /images/Activity_photo/2603_CMIPworkshop/CMIP2026_poster.jpg
-      photo_caption: "Poster presentation at CMIP Community Workshop 2026"
+      photos:
+        - src: /images/Activity_photo/2603_CMIPworkshop/CMIP2026_poster.jpg
+          caption: "Poster presentation at CMIP Community Workshop 2026, Mar 2026"
+        - src: /images/Activity_photo/2603_CMIPworkshop/CMIP2026_opening.jpg
+          caption: "CMIP Community Workshop 2026, Kyoto"
 
     - title: "2026. Workshop on the Dynamics of Rossby Waves, Compound Extremes and Their Impacts (Amsterdam, Netherlands)"
       talks:
@@ -113,6 +116,11 @@
         - type: Oral
           title: "Performance evaluation of RRJ-ClimCORE: Precipitation over South Korea"
           authors: "Jeong-Hun Kim*, Hisashi Nakamura, Takafumi Miyasaka, Ken-ichi Kuma, Joowan Kim"
+      photos:
+        - src: /images/Activity_photo/2601_JTworkshop/JT2026_group_picture.jpg
+          caption: "Japan–Taiwan Joint Workshop on Reanalyses and Application, Jan 2026"
+        - src: /images/Activity_photo/2601_JTworkshop/JT2026_poster.jpg
+          caption: "Workshop venue, RCEC, Academia Sinica, Taipei"
 
 - year: 2025
   meetings:
