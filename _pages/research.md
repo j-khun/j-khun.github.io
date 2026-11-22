@@ -85,7 +85,7 @@ author_profile: true
 
 <p class="rs-intro">
   I study how <b>large-scale atmospheric circulation links remote climate changes</b>, especially in the Arctic and high latitudes,
-  to <b>regional extremes</b> such as heatwaves, compound hot-dry events and severe air pollution in East Asia and Europe.
+  to <b>regional extremes</b> such as heatwaves, compound extremes and severe air pollution in East Asia and Europe.
 </p>
 <div class="rs-tags">
   <span class="rs-tag">Heatwaves</span>
@@ -104,7 +104,7 @@ author_profile: true
     <h2>Heatwave Mechanisms by Large-scale Teleconnection Patterns</h2>
     <p>
       How do remote circulation patterns, such as the Arctic-Siberian Plain (ASP) pattern, the circumglobal teleconnection (CGT)
-      and the Eurasian summertime intraseasonal oscillation (ESISO), set up extreme heat and compound hot-dry events?
+      and the Eurasian summertime intraseasonal oscillation (ESISO), set up extreme heat and compound extremes?
       I diagnose these pathways in observations and evaluate how well CMIP6 models reproduce them.
     </p>
     <div class="rs-sub">East Asia &amp; South Korea</div>
