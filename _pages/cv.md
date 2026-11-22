@@ -25,6 +25,16 @@ redirect_from:
   * _Division of the Atmospheric Sciences, Korea Polar Research Institute (KOPRI), S. Korea_
   * _Supervisor: Dr. Seong-Joong Kim & Dr. Joo-Hong Kim_
 
+## Research visits✈️
+
+* **2024.12:** Visiting Researcher
+  * _Research Center for Advanced Science and Technology (RCAST), The University of Tokyo, Japan_
+  * _Host: Prof. Yu Kosaka_
+
+* **2024.11 - 2024.12:** Visiting Researcher
+  * _Department of Geography, University of California, Santa Barbara (UCSB), U.S._
+  * _Host: Prof. Qinghua Ding_
+
 ## Education📚
 
 * **2019.03 - 2023.08**
