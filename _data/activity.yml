@@ -67,7 +67,7 @@
         - src: /images/Activity_photo/2610_ACM/ACM2026_group_picture.jpg
           caption: "ACM 2026, Oct 2026"
         - src: /images/Activity_photo/2610_ACM/ACM2026_oral.jpg
-          caption: "Oral presentation at ACM 2026"
+          caption: "Oral presentation at ACM 2026, Oct 2026"
 
     - title: "2026. AOGS (Fukuoka, Japan)"
       talks:
@@ -101,7 +101,7 @@
         - src: /images/Activity_photo/2603_CMIPworkshop/CMIP2026_poster.jpg
           caption: "Poster presentation at CMIP Community Workshop 2026, Mar 2026"
         - src: /images/Activity_photo/2603_CMIPworkshop/CMIP2026_opening.jpg
-          caption: "CMIP Community Workshop 2026, Kyoto"
+          caption: "CMIP Community Workshop 2026, Kyoto, Mar 2026"
 
     - title: "2026. Workshop on the Dynamics of Rossby Waves, Compound Extremes and Their Impacts (Amsterdam, Netherlands)"
       talks:
@@ -120,7 +120,7 @@
         - src: /images/Activity_photo/2601_JTworkshop/JT2026_group_picture.jpg
           caption: "Japan–Taiwan Joint Workshop on Reanalyses and Application, Jan 2026"
         - src: /images/Activity_photo/2601_JTworkshop/JT2026_poster.jpg
-          caption: "Workshop venue, RCEC, Academia Sinica, Taipei"
+          caption: "Workshop venue, RCEC, Academia Sinica, Taipei, Jan 2026"
 
 - year: 2025
   meetings:
@@ -135,8 +135,11 @@
         - type: Oral
           title: "Arctic-Siberian Plain Warming and Its Role in East Asian Heat Waves: Mechanisms and CMIP6 Evaluation"
           authors: "Jeong-Hun Kim*"
-      photo: /images/Activity_photo/2511_A3/A3_2025_group_picture.jpg
-      photo_caption: "4th Joint Workshop on the A3 Foresight Program, Nov 2025"
+      photos:
+        - src: /images/Activity_photo/2511_A3/A3_2025_group_picture.jpg
+          caption: "4th Joint Workshop on the A3 Foresight Program, Nov 2025"
+        - src: /images/Activity_photo/2511_A3/A3_2025_oral.jpg
+          caption: "Oral presentation at the A3 Foresight workshop, Jeju, Nov 2025"
 
     - title: "2025. BACO-25 (Busan, Korea)"
       talks:
