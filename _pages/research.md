@@ -33,6 +33,7 @@ author_profile: true
 
   /* 주제별 가로 행: 그림 / 설명을 좌우로 번갈아 배치 */
   .rs-row {
+    scroll-margin-top: 80px;
     display: grid;
     grid-template-columns: 1.15fr 1fr;
     gap: 1.6em;
@@ -95,7 +96,7 @@ author_profile: true
   <span class="rs-tag">Air Quality</span>
 </div>
 
-<section class="rs-row">
+<section id="heatwaves" class="rs-row">
   <div class="rs-fig">
     <img src="/images/Research_fig/Schematic_diagram_ASPt.png" alt="ASP teleconnection pattern and East Asian heatwaves" />
   </div>
@@ -122,7 +123,7 @@ author_profile: true
   </div>
 </section>
 
-<section class="rs-row">
+<section id="arctic" class="rs-row">
   <div class="rs-fig">
     <img src="/images/Research_fig/Schematic_diagram_MTA.png" alt="Arctic moisture budget change" />
   </div>
@@ -138,7 +139,7 @@ author_profile: true
   </div>
 </section>
 
-<section class="rs-row rs-nofig">
+<section id="reanalysis" class="rs-row rs-nofig">
   <div class="rs-text">
     <h2>Performance Evaluation of Regional Climate Reanalysis (RRJ-ClimCORE)<span class="rs-badge">ONGOING</span></h2>
     <p>
@@ -148,7 +149,7 @@ author_profile: true
   </div>
 </section>
 
-<section class="rs-row">
+<section id="air-pollution" class="rs-row">
   <div class="rs-fig">
     <img src="/images/Research_fig/Schematic_diagram_PM10.png" alt="Teleconnections and severe PM10 events" />
   </div>

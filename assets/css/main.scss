@@ -41,3 +41,8 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+/* 다크모드: 하단(footer) 글자 대비 개선 */
+html[data-theme="dark"] .page__footer,
+html[data-theme="dark"] .page__footer a,
+html[data-theme="dark"] .page__footer-copyright,
+html[data-theme="dark"] .page__footer-follow { color: #b8c4cc !important; }
