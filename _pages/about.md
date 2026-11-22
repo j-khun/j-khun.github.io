@@ -26,7 +26,24 @@ redirect_from:
     --hm-box-bg: rgba(127, 178, 229, 0.07);
   }
 
-  .hm-bio { font-size: 1.02em; line-height: 1.65; margin: 0 0 0.9em; }
+  /* 상단 소개: 왼쪽 요약 정보 + 오른쪽 서술형 소개 */
+  .hm-intro {
+    display: grid; grid-template-columns: 11.5em 1fr; gap: 1.6em;
+    margin: 0.4em 0 1.2em;
+  }
+  .hm-rail {
+    border-right: 2px solid var(--hm-chip-bg);
+    padding-right: 1.2em;
+    font-size: 0.85em; line-height: 1.45;
+  }
+  .hm-rail div { margin-bottom: 1.1em; }
+  .hm-rail span { display: block; }
+  .hm-rk {
+    font-size: 0.78em; font-weight: 700; letter-spacing: 0.08em; text-transform: uppercase;
+    color: var(--hm-accent); margin-bottom: 0.25em;
+  }
+  .hm-prose p { font-size: 1.03em; line-height: 1.75; margin: 0 0 0.9em; }
+  .hm-prose p:last-child { margin-bottom: 0; }
   .hm-tags { display: flex; flex-wrap: wrap; gap: 0.45em; margin: 0 0 1.4em; }
   .hm-tag {
     font-size: 0.8em; padding: 0.25em 0.75em; border-radius: 999px;
@@ -70,6 +87,9 @@ redirect_from:
   .hm-contact .hm-k { font-weight: 700; color: var(--hm-sub); }
 
   @media (max-width: 600px) {
+    .hm-intro { grid-template-columns: 1fr; gap: 1em; }
+    .hm-rail { border-right: none; border-bottom: 2px solid var(--hm-chip-bg); padding: 0 0 0.6em; }
+    .hm-rail div { margin-bottom: 0.6em; }
     .hm-cards { grid-template-columns: 1fr; }
     .hm-contact div { grid-template-columns: 1fr; gap: 0; }
   }
@@ -77,14 +97,27 @@ redirect_from:
 
 <div class="hm">
 
-<p class="hm-bio">
-  Postdoctoral Researcher at the <b>Research Center for Advanced Science and Technology (RCAST), The University of Tokyo</b>,
-  working with Prof. Yu Kosaka.<br>
-  I study the <b>large-scale atmospheric circulation behind regional climate extremes</b>: how teleconnections from the Arctic
-  and high latitudes shape heatwaves, compound extremes and severe air pollution over East Asia and Europe,
-  and what drives the recent change in <b>Arctic amplification</b>.<br>
-  Ph.D. in Atmospheric Sciences, Kongju National University.
-</p>
+<div class="hm-intro">
+  <aside class="hm-rail">
+    <div><span class="hm-rk">Position</span><span>Postdoctoral Researcher, RCAST, The University of Tokyo</span></div>
+    <div><span class="hm-rk">Degree</span><span>Ph.D. in Atmospheric Sciences, Kongju National University</span></div>
+    <div><span class="hm-rk">Based in</span><span>Tokyo, Japan</span></div>
+  </aside>
+  <div class="hm-prose">
+    <p>
+      I am a postdoctoral researcher at the Research Center for Advanced Science and Technology (RCAST),
+      The University of Tokyo, working with Prof. Yu Kosaka on large-scale climate dynamics.
+    </p>
+    <p>
+      A heatwave over Seoul or Madrid often begins with a disturbance thousands of kilometres upstream.
+      Warming over the Arctic and Siberian lands, changes in the North Atlantic, or a slow intraseasonal swing of the
+      jet can reorganize the large-scale circulation, and Rossby waves carry that signal far downstream.
+      My work traces these pathways: how they turn into <b>heatwaves, compound extremes and air-pollution episodes</b>
+      over East Asia and Europe, how well climate models reproduce them, and why the Arctic itself has been warming
+      faster in recent decades (<b>Arctic amplification</b>).
+    </p>
+  </div>
+</div>
 
 <div class="hm-tags">
   <span class="hm-tag">Climate Dynamics</span>
