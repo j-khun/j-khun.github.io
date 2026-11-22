@@ -83,7 +83,7 @@ redirect_from:
   I study the <b>large-scale atmospheric circulation behind regional climate extremes</b>: how teleconnections from the Arctic
   and high latitudes shape heatwaves, compound extremes and severe air pollution over East Asia and Europe,
   and what drives the recent change in <b>Arctic amplification</b>.<br>
-  Ph.D. in Atmospheric Sciences, Kongju National University (2023).
+  Ph.D. in Atmospheric Sciences, Kongju National University.
 </p>
 
 <div class="hm-tags">
