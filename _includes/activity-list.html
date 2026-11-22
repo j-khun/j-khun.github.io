@@ -32,7 +32,7 @@
     {% assign n_photos = meeting.photos.size | default: 0 %}
     {% if meeting.photo %}{% assign n_photos = n_photos | plus: 1 %}{% endif %}
     {% if n_photos > 0 %}
-    <div class="activity-photos{% if n_photos > 1 %} activity-photos-grid{% endif %}">
+    <div class="activity-photos">
       {% if meeting.photo %}
       <figure>
         <img class="activity-photo" src="{{ meeting.photo }}" alt="{{ meeting.title }}" />
